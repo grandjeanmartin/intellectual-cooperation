@@ -1,1 +1,1 @@
-# intellectual-cooperation
+# Intellectual Cooperation
