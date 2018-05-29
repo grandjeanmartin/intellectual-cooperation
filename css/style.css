@@ -159,17 +159,19 @@ display: block;
 
 #attributepane .link {
 padding: 0 0 0 4px;
+font-size:8px;
 }
 
 #attributepane .link li {
 padding-top: 2px;
+font-size:8px;
 cursor:pointer;
 }
 
 #attributepane .p {
 padding-top: 10px;
 font-weight: bold;
-font-size:10px;
+font-size:14px;
 }
 
 .left-close {
