@@ -136,11 +136,12 @@ float: left;
 }
 
 #attributepane .name {
-font-size: 18px;
+font-size: 22px;
 cursor: default;
 padding-bottom: 10px;
 padding-top: 18px;
 font-weight:bold;
+font-variant:small-caps;
 }
 
 #attributepane .data {
@@ -159,12 +160,10 @@ display: block;
 
 #attributepane .link {
 padding: 0 0 0 4px;
-font-size:8px;
 }
 
 #attributepane .link li {
 padding-top: 2px;
-font-size:8px;
 cursor:pointer;
 }
 
