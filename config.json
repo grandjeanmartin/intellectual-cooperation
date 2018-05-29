@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Martin Grandjean",
+    "file": "http://www.martingrandjean.ch/wp-content/uploads/2016/02/intellectualcooperation.png",
+    "link": "http://www.martingrandjean.ch"
+  },
+  "text": {
+    "title": "International Committee on Intellectual Cooperation",
+    "more": "",
+    "intro": "Mapping the archives of the League of Nations ICIC (1919-1927). Martin Grandjean 2016, University of Lausanne"
+  },
+  "legend": {
+    "edgeLabel": "Two individuals appears in the same file",
+    "colorLabel": "ICIC Level (ICIC Member; ICIC Bureau; Sub-Committee Member)",
+    "nodeLabel": "Individual appearing in an ICIC file"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Cat1",
+    "hoverBehavior": "Dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.1,
+      "maxNodeSize": 20,
+      "maxEdgeSize": 5,
+      "minNodeSize": 0.5
+    },
+    "drawingProperties": {
+      "labelThreshold": 100,
+      "hoverFontStyle": "normal",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 12,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#000",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 5
+    }
+  }
+}
