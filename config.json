@@ -8,9 +8,8 @@
     "link": "http://www.martingrandjean.ch"
   },
   "text": {
-    "title": "International Committee on Intellectual Cooperation",
-    "more": "https://github.com/grandjeanmartin/intellectual-cooperation",
-    "intro": "Mapping the archives of the League of Nations ICIC (1919-1927). Martin Grandjean 2016, University of Lausanne"
+    "title": "International Committee on Intellectual Cooperation (BETA)",
+    "intro": "Mapping the archives of the League of Nations ICIC (1919-1927). Martin Grandjean 2018, University of Lausanne. CC-BY-SA"
   },
   "legend": {
     "edgeLabel": "Two individuals appears in the same file",
