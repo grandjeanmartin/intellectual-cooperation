@@ -9,12 +9,12 @@
   },
   "text": {
     "title": "International Committee on Intellectual Cooperation",
-    "more": "",
+    "more": "https://github.com/grandjeanmartin/intellectual-cooperation",
     "intro": "Mapping the archives of the League of Nations ICIC (1919-1927). Martin Grandjean 2016, University of Lausanne"
   },
   "legend": {
     "edgeLabel": "Two individuals appears in the same file",
-    "colorLabel": "ICIC Level (ICIC Member; ICIC Bureau; Sub-Committee Member)",
+    "colorLabel": "Members of the ICIC, of the Section, of the IIIC and others (from dark blue to white)",
     "nodeLabel": "Individual appearing in an ICIC file"
   },
   "features": {
