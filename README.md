@@ -6,11 +6,11 @@ These are the sourcefiles of a network analysis based on the archives of the Lea
 
 To cite this data set: 
 
-> GRANDJEAN Martin (2018). *The Network of Intellectual Cooperation*, Data set, https://github.com/grandjeanmartin/intellectual-cooperation, DOI: XXX
+> GRANDJEAN Martin (2018). *The Network of Intellectual Cooperation*, Data set, https://github.com/grandjeanmartin/intellectual-cooperation.
 
 To cite the thesis:
 
-> GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels (1919-1927)*, Université de Lausanne, XXX p.
+> GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels (1919-1927)*, Université de Lausanne, Lausanne.
 
 
 ## Data ##
