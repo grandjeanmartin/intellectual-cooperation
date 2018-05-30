@@ -15,11 +15,11 @@ To cite the thesis:
 
 ## Data ##
 
-**> FILE 1** Here's the data
+**> FILE 1** EDGES : [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
 
-**> FILE 2** Here's the data
+**> FILE 2** NODES : [CSV file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_nodes.csv) (id, name, first name, affiliation, gender, indexations)
 
-**> FILE 3** Here's the data
+**> FILE 3** METRICS : [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
 
 
 ## Network ##
