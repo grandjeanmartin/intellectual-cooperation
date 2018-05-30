@@ -1,0 +1,3204 @@
+Id,Nom,Prenom,Cat1,Cat2,Index
+1,Drummond,Eric,SECRG,2,471
+473,Murray,Osw. A. R,NGO,2,1
+474,Parry,John,NGO,2,46
+516,Baker,P. J.,LONO,2,11
+525,Bruins,G. W. J.,NGO,2,1
+527,Curtis,L. ,LONO,2,1
+529,Robert,,GOV,2,1
+530,ShepardsonW,Whitney,EDUC,2,2
+532,Field,John W.,GOV,2,2
+535,Leak,D. A.,LONO,2,1
+536,Halecki,Oscar de,SECRS,2,361
+864,Weiss,Raymond,IICI,2,5
+869,Nitobe,Inazo,SECRS,2,584
+1217,Schuster,Sir Arthur,NGO,2,6
+1220,Walters,Captain Frank. P.,SECRG,2,77
+1247,Lorentz,Hendrik Antoon,CICI,2,96
+1308,Destree,Jules,CICI,2,130
+1364,Murray,Gilbert,CICI,2,100
+1390,Hamel,Van,JUR,2,58
+1401,Hiss,Alger,UNI,2,27
+1411,Otlet,Paul,NGO,2,58
+1416,Pollard,A.F.C.,UNI,2,6
+1422,Lafontaine,Henri,NGO,2,48
+1427,Hallsten-Kallia ,Arnie,SECRS,1,103
+1489,Lloyd,[Edward Mayow Hastings],SECRS,2,5
+1492,Salter,Arthur,FINECO,2,16
+1498,Monnet,Jean,SECRG,2,3
+1500,Nasmyth,Georges,NGO,2,1
+1501,Angelescu,,GOV,2,2
+1503,Harris,Nugent,NGO,2,2
+1504,Parker,Laurence H.,EDUC,3,1
+1505,Hoffmann,Conrad,ETU,2,15
+1510,Kotschnig ,Walter M.,ETU,2,6
+1511,Ames ,Herbert B.,FINADMIN,2,34
+1522,Colban,,EDUC,2,4
+1523,Picht,Werner,IICI,2,9
+1528,Castro,Aloysio de,CICI,2,42
+1533,Montenach,Jean-Daniel de,SECRS,2,5
+1534,Strachey,C.,GOV,2,2
+1535,Dragoni,C.,UNI,2,2
+1537,Gurney,Hugh,UNK,2,2
+1538,Collins,William,NGO,2,5
+1539,Lange,Christian,NGO,2,14
+1540,Lloyd George,David,GOV,2,1
+1541,Addey,E. L. L. ,NGO,2,1
+1542,Costermans,H.,GOV,2,25
+1544,Nicolson,Harold,NGO,2,1
+1546,Metzger,Max Josef,NGO,2,2
+1549,Crompton,R. E.,NGO,2,2
+1550,Douglas,H. P.,NGO,2,3
+1553,Gouault,E.,UNI,2,1
+1554,Schuster,Ernest J.,UNK,2,1
+1555,Stevenson,,GOV,1,1
+1556,Dent,Edward J.,ARTS,2,2
+1558,Castillejo,Jose,RELUN,2,19
+1567,Gottl-Ottlilienfeld,Von,RELUN,2,15
+1575,Koranyi,Alexandre de,RELUN,2,1
+1577,Odhner,Theodore,RELUN,2,4
+1578,Oprescu,Georges,SECRS,2,902
+2042,Rocco,Alfredo,CICI,2,35
+2043,Tanakadate,Aikitu,CICI,2,4
+2044,Thamin,R.,UNI,2,4
+2045,Vernon Kellogg,,COMNAT,2,31
+2046,Bonnevie,Kristine,CICI,1,55
+2052,Chapin,J. Stuart ,NGO,2,5
+2053,Cowley,A.,BIBLIO,2,6
+2056,Jespersen,Otto,UNI,2,2
+2057,Schramm,J. R.,BIBLIO,2,14
+2058,Knoph,Ragnar,DRINT,2,6
+2059,Ruffini,Francesco,CICI,2,43
+2064,Harris,F. R.,GOV,2,1
+2065,Harris,Robert E.,NGO,2,2
+2066,Douwes Dekker,A.M.,NGO,1,1
+2068,Ruysch,W.P.,NGO,2,1
+2069,Luchaire,Julien,IICI,2,248
+2101,Boissier,Leopold,GOV,2,1
+2102,Feo,Luciano de,IICE,2,1
+2103,Pilotti,Massimo,SECRS,2,4
+2106,Elliott,Thomas,UNI,2,2
+2107,Bourgeois,Leon,SECRG,2,8
+2109,Dop,Louis,NGO,2,2
+2111,Conwentz,,GOV,3,1
+2112,Delevingne,Malcolm,SOC,2,5
+2114,Drygalski,Fritz von,UNI,2,1
+2115,Gilson,E.,CULTURE,2,1
+2116,Gordon Hewitt,C.,GOV,2,1
+2117,Graff,L. von,GOV,2,1
+2118,Kaan,Ch.,GOV,2,1
+2119,Lonnberg,Einar,CULTURE,2,1
+2120,Mackenzie,H. W.,GOV,2,1
+2121,Massart,,UNI,3,1
+2122,Ostenfeld,C. H.,CULTURE,2,1
+2123,Oudemans,J. Th.,DELSDN,2,1
+2124,Reynow,,DIPLO,3,1
+2125,Sarasin,Paul,NGO,2,3
+2126,Tienhoven,P. J. van,NGO,3,1
+2127,White,James,GOV,2,1
+2128,Wille,N.,NGO,3,1
+2129,Decoppet,,NGO,2,4
+2131,Depage,A.,NGO,2,1
+2132,Heger,Paul,NGO,2,1
+2133,May,,NGO,3,1
+2134,Bonzon,Alfred,GOV,2,1
+2135,Martin,William,OIT,2,9
+2136,Spencer,Clarissa H.,NGO,1,1
+2137,Piip,A.,UNI,2,2
+2139,Willcox,Walter M.,ETU,2,4
+2140,Morpurgo,F. A. de,FINADMIN,2,6
+2141,Richardson,Hugh,NGO,2,3
+2143,Teixidor,,INFO,2,2
+2144,Comert,Pierre,INFO,2,31
+2149,Golay,Henri,NGO,2,8
+2154,Casares,Julio,CICI,2,31
+2157,Bonnet,Henri,IICI,2,6
+2159,Dumas ,Louis,EDUC,2,1
+2161,Lapierre,G.,EDUC,2,2
+2162,Rondel,Georges,NGO,2,9
+2164,Susta,Joseph,COMNAT,2,3
+2166,Boyer,Maurice,UNK,2,3
+2169,Gilchrist,Huntington,ADMIN,2,12
+2170,Kaeckenbeeck,,LONO,2,5
+2172,Haas,Robert,TRANSIT,2,22
+2175,Eastman,S. Mack,OIT,2,3
+2176,Massoulier,,IICI,2,4
+2177,Schubert,W. F.,SECRS,2,1
+2178,Terdenge,,GOV,2,1
+2179,Zimmern,Alfred,IICI,2,29
+2184,Goellner,A. de,IICI,2,1
+2187,Baie,Eugene,GOV,2,19
+2191,Parodi,,NGO,3,1
+2192,Bougle,Celestin,UNI,2,1
+2193,Abraham,Gerald H. F.,SECRS,2,1
+2194,Avenol,Joseph,SECRG,2,52
+2207,Appell,Paul,UNI,2,3
+2208,Anzilotti,Dionisio,NGO,2,7
+2210,Ferraris,Maggiorino,GOV,2,1
+2211,Collijn,Isak,CULTURE,2,4
+2212,Bergson,Henri,CICI,2,104
+2226,Goet,Jean,DELSDN,2,5
+2227,Macara,Charles,NGO,2,1
+2228,Dufour-Feronce,Albert,SECRS,2,66
+2235,Howard,Jean,NGO,2,2
+2236,Torley Duwel,C.L.,UNI,2,2
+2237,Levinson,L. ,IICI,2,4
+2238,Bula,P. Isart,NGO,2,1
+2239,Degollada,J.,NGO,3,1
+2240,Plaisant,Marcel,DRINT,2,6
+2242,Layton,W. T.,FINECO,2,1
+2243,Godet,Marcel,BIBLIO,2,35
+2248,Spicer Simson,Gerard B.,NGO,2,71
+2269,Jaspar,Henri,GOV,2,8
+2270,Melot,Joseph,DELSDN,2,8
+2272,Stafford,K. I.,SECRS,1,26
+2274,Watterson,P. G.,FINADMIN,2,9
+2275,Collin,A.,SOC,1,2
+2276,Garnier,Ch. M.,EDUC,2,1
+2277,Einstein,Albert,CICI,2,28
+2280,Kotze,H.U. Von,SECRS,2,1
+2282,Crowdy,Rachel,SOC,1,26
+2287,Onderdonk,Francis S.,NGO,2,2
+2289,Gallie,Louis,COMNAT,2,10
+2291,Ionesco-Mihaiesti,C.,NGO,2,2
+2292,Kruss,H. A. ,BIBLIO,2,24
+2294,Maurette,Fernand,OIT,2,15
+2295,Ostertag,,DRINT,2,9
+2297,Pajia,,GOV,2,5
+2298,Roland-Marcel,Pierre-Rene,BIBLIO,2,14
+2301,Thibaudet,Albert,UNI,2,1
+2302,Millikan,Robert Andrew,CICI,2,43
+2306,Reynold,Gonzague de,CICI,2,109
+2316,Butler,Harold,OIT,2,1
+2317,Vandervelde,E.,DELSDN,2,7
+2319,Andersen,H. C.,NGO,2,1
+2321,Hanslik,Erwin,NGO,2,1
+2323,Kokoschka,Oskar,NGO,2,1
+2324,Hoffer,Henri. P.,SECRS,2,33
+2341,Muskens,,NGO,2,1
+2342,Bosanquet,Theodora,FEM,1,20
+2344,Jacklin,Seymour,FINADMIN,2,3
+2345,Roddolo,,UNK,2,1
+2347,Harford,Charles,UNK,2,2
+2348,Focillon,Henri,ARTS,2,17
+2349,Vejarano,Felix,SECRS,2,1
+2350,Mactavish,J. M.,NGO,2,2
+2351,Shimonaka,Y.,EDUC,2,2
+2353,Ruyssen,Th.,NGO,2,3
+2354,Schnabel,Fritz,INFO,2,10
+2357,Dreyfuss-Barney,Laure C.,JEUNE,1,21
+2358,Hankin,G. T.,EDUC,2,4
+2359,Paulucci di Calboli,,INTERN,2,4
+2360,Pelt,A.,INFO,2,2
+2361,Vekene,Van der,PUBLI,2,1
+2362,Hymans,Paul,GOV,2,20
+2364,Hertz,Friedrich,NGO,2,1
+2365,Vauthier,Louis C.,NGO,2,3
+2366,Bjerknes,V.,NGO,2,2
+2368,Leone,Ugo,TRANSIT,2,2
+2369,Righetti,G.,COMNAT,2,4
+2370,Karnebeeck,Jonkheer Van,GOV,2,2
+2371,Garcia Palacios,Carlos,INFO,2,1
+2372,Nogueira,Julian,INFO,2,9
+2375,Pla,,INFO,2,1
+2376,Rodriguez,Cristobal,SECRG,2,24
+2382,Harcourt Smith,Cecil,ARTS,2,2
+2383,Hendrickx,Robert,NGO,2,3
+2384,Micheli,F.,IICI,2,4
+2385,Balch,Emily,FEM,1,1
+2387,Rolin,,GOV,2,1
+2388,Bose,Jagadis Chandra,CICI,2,21
+2390,Rollier,Ariste,NGO,2,2
+2391,Rusiecka,Marie,NGO,1,1
+2392,Haylett,,NGO,2,1
+2393,Loder,B.C.J. ,NGO,2,1
+2394,Nixon ,J.H.,FINECO,2,5
+2396,Politis,,DIPLO,2,3
+2399,Puttemans,H.,NGO,3,1
+2400,Hoden,Marcel,INFO,2,3
+2403,Ophem,F. Van,NGO,2,2
+2405,Aghnides,,UNK,2,2
+2406,Ganzoni,,INFO,2,2
+2407,Loeliger,,NGO,2,1
+2408,Makay,P. J. de,FINADMIN,2,7
+2409,Marsault,Antoinette,LONO,2,3
+2410,Radziwill,Gabrielle,SECRS,1,31
+2415,Titulescu,N.,DELSDN,2,1
+2416,Dopsch,Alfons,COMNAT,2,31
+2420,Miselj,V.,LONO,2,2
+2421,Fauchille,Paul,UNI,2,1
+2422,Cornejo,Mariano H.,DELSDN,2,1
+2423,Saluzzo,di,NGO,3,1
+2424,Etienne,Lucien Henri,NGO,2,5
+2425,Pantano,E.,NGO,2,1
+2426,Painleve,Paul,CICI,2,23
+2428,Dolleans,Edouard,NGO,2,5
+2429,Hayler,Guy,NGO,2,1
+2430,Schadel,B.,UNI,2,2
+2431,Thompson,J. David,COMNAT,2,26
+2432,Barany,R.,UNI,2,2
+2434,Janson,Emile,UNK,2,2
+2435,Daxhelet,Eug.,CULTURE,2,1
+2436,Bedwell,C. E. A.,CULTURE,2,3
+2439,Huston,Howard,INTERN,2,8
+2441,Dyke,Paul Van,UNI,2,3
+2442,Zimmermann,Friedrich,NGO,2,1
+2443,Henriod,Henri-Louis,ETU,2,7
+2444,Jonson,Emile,ETU,2,2
+2445,Schneyder,Alfred H.K.,ETU,2,2
+2446,Sperl,Hans,UNI,2,3
+2448,Loubet,E.,NGO,2,2
+2449,Ferriere,Adolphe,EDUC,2,5
+2450,Beltette,A.,EDUC,2,5
+2451,Johnston,G. A.,OIT,2,2
+2452,Meeker,Royal ,OIT,2,1
+2453,Phelan,Edward J.,OIT,2,3
+2454,Thomas,Albert,OIT,2,24
+2458,Leon,Quinones de,DELSDN,2,10
+2461,Lust,Eug.,NGO,2,1
+2462,Freytag,,DELIICI,2,7
+2463,Friedlender,Otto,ETU,2,1
+2464,Renaud,,NGO,2,1
+2465,Vos van Steenwijk,J. E. de,IICI,2,49
+2473,Jackman,,NGO,2,1
+2474,Cunha,M. G. da,SECRG,2,1
+2475,Wilson,Florence,LIB,2,21
+2482,Sweetser,Arthur,INFO,2,13
+2484,Velghe,Henri,GOV,2,13
+2487,Forrer,L.,GOV,2,1
+2488,Carels,R.J.,NGO,3,1
+2489,Serrarens,,NGO,2,1
+2490,McKinnon Wood,H.,JUR,2,20
+2492,Matsch,Franz,DELSDN,2,3
+2495,Duggan,Stephen Pierce,EDUC,2,16
+2496,Davies,Gwilym,NGO,2,2
+2497,Guillaume,Ch.,NGO,2,1
+2498,Ador,Gustave,GOV,2,2
+2499,Pownall,T.,NGO,2,2
+2500,Cargin,Eleanor,NGO,1,1
+2501,Temperley,,NGO,2,1
+2502,Ehrard,,GOV,3,1
+2503,Weardale ,,GOV,2,2
+2504,Sevensma,T.P.,LIB,2,1
+2505,Green,,UNK,2,1
+2506,Hubbard,Gustave,NGO,2,1
+2507,Brusser,F.,NGO,2,1
+2508,Schwind,Ernst,UNI,2,1
+2509,Smole,,NGO,2,2
+2510,Clementel,Etienne,NGO,2,2
+2512,Rappard,William.E.,MANDAT,2,15
+2513,Merillon,Daniel,NGO,2,1
+2514,Bamain,,DIPLO,2,1
+2515,Steinmann,,DIPLO,2,1
+2516,Baldini,B.,UNI,2,2
+2517,Baranyai,Zoltan,DELSDN,2,20
+2518,Perkins,J. J.,NGO,3,1
+2519,Voncken,J.,NGO,2,1
+2520,Mohn,Alf.,DELSDN,2,1
+2521,Fuss,Henri,OIT,2,1
+2522,Bompas,Katherine,FEM,1,2
+2523,Curie Sklodowska,Marie,CICI,1,53
+2525,Razet,L.,UNI,1,8
+2526,Bishop,William Warner,BIBLIO,2,3
+2527,Hanotaux,Gabriel,DELSDN,2,10
+2536,Monod,Franeois,NGO,2,1
+2537,Clouzot,Etienne,NGO,2,3
+2538,Hill,Claude H.,NGO,2,3
+2539,Aa,S. Van der,NGO,2,1
+2540,Jacobsen,,FINECO,3,2
+2542,Drummond Drummond Fraser,,NGO,2,3
+2543,Silbernagel,Alfred,NGO,2,2
+2544,Ensor,,NGO,1,1
+2545,Harada,Ken,SECRS,2,159
+2585,Nutt,M. L.,NGO,1,1
+2586,Scherbatsky,A.,LONO,2,1
+2587,Velzen,H. Thoden van,NGO,2,1
+2588,Warnotte,Daniel,UNI,2,10
+2590,Genoud,Leon,EDUC,2,1
+2591,Racovitza,Emile  G.,UNI,2,4
+2593,Cosentini,F.,UNI,2,7
+2597,Chichmanoff,Iv.,NGO,2,1
+2598,Schober,Johann,GOV,2,2
+2599,Baddeley,W.,NGO,2,1
+2600,Harvey,George,GOV,2,1
+2601,Hudson,Manley O.,JUR,2,6
+2604,Russell,A. D. C.,GOV,2,1
+2606,Harris,S. W.,UNK,3,1
+2607,Lheritier,Michel,IICI,2,4
+2609,Laemmel,Rudolf,UNK,2,1
+2611,Anezaki,Masaji,COMNAT,2,3
+2612,Harada,Minoru,EDUC,2,2
+2614,Ishida,Tomoji,NGO,2,1
+2615,Megata,T.,FEM,1,1
+2616,Noguchi,Entaro,EDUC,2,1
+2617,Sakatani,Yoshiro,NGO,2,1
+2618,Sawayanagi,Masataro,EDUC,2,1
+2619,Waldkirch,E. de,UNI,2,6
+2621,Bovet,Pierre,EDUC,2,4
+2622,Reverdin,Henri,UNI,2,11
+2623,Wilson,J. V.,LONO,2,4
+2624,Rollet de l'Isle,,GOV,2,1
+2625,Hankey,,GOV,3,1
+2627,Moncheur,Ludovic de,GOV,2,1
+2628,Bellot,Hugh H. L.,NGO,2,2
+2631,Abbott,Elizabeth,FEM,1,1
+2632,Alberti,Leonora De,FEM,1,1
+2633,Chaponniere-Chaix,,FEM,1,1
+2634,Corbett Ashby,Margery,FEM,1,5
+2635,Garnett,J. C. Maxwell,NGO,2,13
+2636,Green,Norah E.,FEM,1,1
+2637,Orth,Sarah,NGO,1,1
+2638,Picton-Turvervill,Edith,FEM,1,1
+2639,Schmieden,W. Von,SECRS,2,33
+2640,Dendramis,V.,DIPLO,2,4
+2642,Gwiazdowski,Thadee,DELSDN,2,3
+2643,Lebrun,,IICI,2,1
+2644,Lanux,Pierre de,INFO,2,1
+2645,Burrows,A. R.,NGO,2,4
+2646,Pintos ,Vino G. ,NGO,2,1
+2647,Attolico,Bernardo,SECRG,2,39
+2648,Ruzette,,GOV,2,1
+2649,Theumis,,GOV,2,1
+2650,Brunet,J.,FINECO,2,6
+2651,Gould,Frederick J.,EDUC,2,4
+2652,Lenoir,Georges,EDUC,2,1
+2653,Munier,Louis H.,LONO,2,1
+2654,Smith,Irwin,ETU,2,1
+2656,Jones,Dorothy W. ,EDUC,1,2
+2657,Bersot,H.,NGO,2,1
+2658,Hale,George E.,CICI,2,14
+2659,Balfour,Arthur,GOV,2,3
+2660,Imperiali,,DELSDN,2,1
+2661,Tang Tsai Fou,,DELSDN,2,3
+2662,Dinkelmann,Hans,GOV,2,2
+2663,Marie-Davy,F.,NGO,2,1
+2664,Rethlisberger,Ernest,NGO,2,11
+2666,Yamada,Saburo,COMNAT,2,5
+2667,Davis ,,NGO,2,1
+2668,Kingsbury,Susan M.,EDUC,2,1
+2669,Tufton,Charles,GOV,2,3
+2670,Gremaud,Joseph,NGO,2,10
+2671,Montenach,Georges de,GOV,2,2
+2672,Carton de Wiart,Henry,GOV,2,7
+2673,IshiiKik,Kikujiro,DELSDN,2,9
+2674,Torres Quevedo,L. de,CICI,2,27
+2675,Bernacki,,UNK,3,1
+2676,Castello Branco Clark,M. F. de,DIPLO,2,1
+2677,Bannerjea,Debendra Nath,CICI,2,28
+2680,Bucher,A. O.,UNK,3,1
+2681,Speisen,G.,LONO,2,1
+2682,Hanselmann,,NGO,3,1
+2683,Mair,G. H.,LONO,2,1
+2684,Sherman,S.,EDUC,2,4
+2685,Bouimistrow,T. W.,NGO,2,2
+2686,Chavannes,Emile F.,NGO,2,2
+2687,Kaidanovsky,S.,NGO,2,2
+2688,Meller,W.,NGO,2,1
+2689,Weldler,N.,NGO,2,1
+2690,Habicht,Max,ETU,2,1
+2691,Hall,Duncan,UNK,2,1
+2692,Selig,Anna,UNK,1,1
+2693,Vigier,H.,UNK,3,1
+2694,Dantas,Julio,COMNAT,2,2
+2695,Barrier,A.,UNI,2,1
+2696,Durand-Reville,,UNI,2,1
+2697,Folkersma,A.F.,GOV,2,2
+2698,Descamps,,GOV,2,1
+2699,Leon-Dufour,B.,FINECO,2,1
+2700,Pavia,Angelo,GOV,2,1
+2701,McPike,Eugene F.,UNK,2,1
+2702,Thomas,Augustus O.,EDUC,2,5
+2703,Lomba,R. L.,NGO,2,1
+2704,Vuyst,P. de,EDUC,2,4
+2705,Baugniet,Jean,ETU,2,12
+2707,Oldenburg,M. A.,DIPLO,2,6
+2708,Fischli,Fr.,NGO,2,1
+2709,Seeger,Ch.,GOV,2,11
+2710,Rothbarth,Margarete,IICI,1,10
+2712,Granitsch,Helene,NGO,1,1
+2714,Meline,Jules,GOV,2,4
+2716,Sagnier,Henry,NGO,2,3
+2717,Rohan,Charles Antoine de,NGO,2,4
+2719,Stein,L. S.,NGO,2,3
+2722,Stephens,Winston Bryant,EDUC,2,1
+2724,Dawson Johnston,W.,BIBLIO,2,15
+2725,Gehri,Maurice,EDUC,2,1
+2726,Vinck,Emile,GOV,2,4
+2727,Horvath,E.,UNI,2,3
+2728,Raikert,Aloys de,NGO,2,1
+2729,Pflegl,E. Von,DELSDN,2,10
+2731,Furse,Katherine,NGO,1,2
+2732,Oneill,Sersamt,GOV,2,1
+2733,Samways,David,NGO,2,1
+2734,Shotwell,James T.,NGO,2,1
+2735,Graf,,OIT,2,2
+2737,Krabbe,,DELSDN,2,6
+2738,Schurch,Ch.,NGO,2,1
+2740,Lebrun,G.,EDUC,2,1
+2741,Bernard,Leon,UNI,2,2
+2742,Baden-Powell,Robert SS,NGO,2,3
+2743,Bailey,W. Lewis,JEUNE,2,19
+2746,Cecil,Robert,NGO,2,1
+2747,Cummings,H. R.,INFO,2,8
+2748,Egidius,Th. F.,NGO,2,2
+2749,Martin,Hubert S.,NGO,2,9
+2751,Gibson,Harold,ETU,2,2
+2752,Grant,Donald,ETU,2,3
+2753,Latham,Eleanor,ETU,1,4
+2754,Morgan,W.,NGO,2,1
+2755,Rich,Raymond,ETU,2,1
+2756,Tille,V.,CULTURE,2,3
+2757,Salis,de,UNK,3,1
+2758,Knes,Berje/Berje,GOV,2,1
+2759,Garcia,Diego,NGO,2,1
+2760,Colin,A.,EDUC,1,2
+2761,Batchinsky,Eugene de,ETU,2,1
+2762,Romein,,TRANSIT,2,2
+2763,Roper,Albert,NGO,2,1
+2764,Milam,Carl H.,CULTURE,2,2
+2765,Richardson,Ernest C.,CULTURE,2,3
+2766,Symons,F G H,NGO,2,4
+2767,Alexander ,Margaret C. ,EDUC,1,1
+2768,Palecek,V.,ETU,2,4
+2769,Blinishti,Benoit,DELSDN,2,6
+2770,Mikoff,,DELSDN,2,3
+2771,Spisek,F.,GOV,2,2
+2772,Vacaresco,Helene,ARTS,1,11
+2773,Chodzko,,LONO,2,2
+2775,Hocking,,DISTRI,1,2
+2776,Golay,Maurice,NGO,2,1
+2777,Gerard,Jean,ETU,2,12
+2779,Kestner,Paul,NGO,2,1
+2780,Gariel ,,NGO,2,4
+2781,Weindel,Henri de,NGO,2,1
+2782,Kenyon,Frederic G.,CULTURE,2,3
+2783,Castella,Gaston,RELUN,2,13
+2784,Headicar,B. M. [A. ?],BIBLIO,2,20
+2785,Bacha,Eugene,COMNAT,2,12
+2787,Thomson,J. Allan,CULTURE,2,1
+2788,Meyer,H. H. B.,CULTURE,2,1
+2789,Ludwig,Hermann,GOV,2,1
+2791,Chuard,Ernest,GOV,2,1
+2792,Fischer,Ed.,COMNAT,2,2
+2793,Filliol,,NGO,2,1
+2794,Huster,Howard,LONO,2,1
+2795,Mailloux,C. O.,NGO,2,1
+2796,Pickard,Bertram,NGO,2,1
+2797,Pringle,George C.,EDUC,2,3
+2798,Baillaud,B.,UNI,2,1
+2799,BaloghEd,Eugene de,UNI,2,17
+2802,Emmons,W. H.,NGO,3,1
+2803,Grosz,Emile de,UNI,2,6
+2804,Krippel,Moricnak,UNI,2,1
+2805,Lecointe,G.,UNI,2,1
+2806,Tass,A.,UNI,2,1
+2807,Waite,Marie L.,EDUC,1,3
+2808,Bogdan,A.,NGO,3,1
+2809,Chimszans,,UNI,2,1
+2810,Driesler,,EDUC,2,1
+2811,Lauterbach,,EDUC,3,1
+2812,Paton,H.I. ,EDUC,2,3
+2813,Hagberg Wright,C. T.,CULTURE,2,26
+2815,Leland,Waldo G.,BIBLIO,2,14
+2816,Montarroyos,E.,DELIICI,2,2
+2817,Langenhoven,Van,GOV,2,2
+2819,Bredin,Elizabeth,ETU,1,1
+2820,Dunham,Marcia O.,ETU,1,1
+2821,Ebel,Grete,ETU,1,1
+2822,Frederiksen,O. J. O.,ETU,3,1
+2823,Gutofsky,N.,UNI,2,1
+2824,Hoshi,Hajime,NGO,3,1
+2825,Keeny,S. M.,ETU,3,1
+2826,Lannung,Hermad L.,ETU,2,1
+2827,Legate,"Ray, H.",ETU,2,2
+2828,Potebuja,A.,UNI,3,1
+2829,Bidez,J.,UNI,2,1
+2830,Homolle,Th.,CULTURE,2,1
+2831,Pirenne,Henri,UNI,2,3
+2832,Faure-Fremiet,E.,UNI,2,4
+2833,Picard,Emile,UNI,2,4
+2834,Arciszewski,,DELSDN,3,1
+2835,Rybicki,Stanislas,NGO,2,3
+2836,Tcheou-Wei,S.,GOV,2,5
+2837,Foex,Georges,NGO,2,1
+2838,Gini,Corrado,UNI,2,1
+2839,Myslicki,J.,NGO,3,1
+2840,Wickatency,,NGO,2,1
+2841,Stencek,V. J.,SECRG,2,3
+2842,Curtis,H. ,NGO,2,1
+2843,Sumerly ,Eduardo,GOV,2,1
+2844,Veith,G.,NGO,2,1
+2845,Dalrymple,I.M.,ETU,2,5
+2846,Munk,Frank,ETU,2,1
+2847,Fourneau,E.,NGO,2,1
+2849,Lacroix,A.,NGO,2,2
+2850,Gama,Domicio Da,DELSDN,2,2
+2851,Ferber,,GOV,2,5
+2852,Haking,Richard,ADMIN,2,1
+2853,MacDonnell,S.,ADMIN,2,5
+2854,Bourgin,G.,CULTURE,2,1
+2855,Goy,Henri,UNI,2,1
+2856,Best,Robert H.,NGO,2,1
+2857,Herbigny,Michel d',UNI,2,1
+2859,Wardrop,Douglas,NGO,2,1
+2860,Arcis,Guthrie d',FEM,1,1
+2862,Chakravorti,J. C.,CULTURE,2,1
+2863,Ghosh,J. C.,UNI,2,1
+2864,Diaz Yrizar,Mario,NGO,2,1
+2865,Iredale,Eleonora,NGO,1,1
+2866,Rouse,Ruth,NGO,1,1
+2867,Carr,S. E.,NGO,2,1
+2868,Ganzhof,Franeois,NGO,2,2
+2869,Fernandez,,UNI,2,1
+2871,Hill,Alex,UNI,2,18
+2873,Paullin,Charles O.,NGO,2,1
+2874,Pope,Joseph,GOV,2,3
+2875,Broche,Gaston E. ,EDUC,2,1
+2876,Knudsen,Martin,GOV,2,2
+2878,Pelseneer,Paul,NGO,2,3
+2879,Demarcy,L.,NGO,2,1
+2880,Gaston,Emilio,NGO,2,1
+2881,Pedrazzini,S.,NGO,3,1
+2882,Piau,O.,UNI,1,1
+2883,Sebert,,NGO,2,3
+2884,Borel,Emile,UNI,2,6
+2886,Bruinningk,Hermann von,NGO,2,1
+2887,Busch,Nicolas,CULTURE,2,1
+2888,Felsberg,E.,COMNAT,2,7
+2890,Keyserling,Hermann de,NGO,2,2
+2891,Krimbergs,Rob.,UNI,2,1
+2892,Kundsinsch,,UNI,2,2
+2893,Maldons,,UNI,3,1
+2894,Afring,Fredr.,NGO,2,1
+2895,Grotenfelt,K.,NGO,2,1
+2896,Gummerus,J.,NGO,3,1
+2897,Liedman,Karl F.,UNI,2,1
+2898,Pipping,Hugo,NGO,2,1
+2899,Ruuth,J. W.,CULTURE,2,1
+2900,Tigerstedt,,UNI,2,3
+2902,Wallenskold,Axel,COMNAT,2,10
+2903,BaloghE,Elemer,IICI,2,8
+2904,Voldemar,Augustin,UNI,2,1
+2905,Walter,E.,UNI,2,1
+2906,Kasselblatt,A.,CULTURE,2,1
+2907,Kopp,J.,UNI,2,1
+2908,Rootsman,D.,UNI,3,1
+2909,Taugren,A. M.,UNI,3,1
+2910,Uluots,J.,UNI,2,1
+2911,Wiget,Wilhelm,NGO,2,1
+2912,Andreades,,UNI,2,3
+2913,Caratheodori,,UNI,3,1
+2914,Cawadias,Alexandre,NGO,2,1
+2915,Hondros,D.,UNI,2,1
+2916,Kalitsounakis,D.,GOV,2,1
+2917,Menardos,S.,UNI,3,1
+2918,Michalakopoulo,A.,GOV,2,1
+2919,Nicoloudis,,NGO,3,1
+2920,Pappas,Spyridon,DIPLO,2,2
+2921,Pappoulia,,UNI,2,1
+2922,Remoundos,Georges,COMNAT,2,16
+2924,Yannios,N.,NGO,3,1
+2925,Villari,,FINECO,3,1
+2926,Barnich,Georges,UNI,2,1
+2927,Hostelet,,UNI,2,1
+2928,Nisot,,JUR,2,4
+2929,Solvay,Armand,NGO,2,1
+2930,Solvay,Ernest,NGO,2,1
+2931,Fatio,Guillaume,NGO,2,1
+2932,Schweizer,W. R.,UNI,3,1
+2933,Bidgrain,Suzanne,ETU,1,4
+2935,Cvijic,Jovan,NGO,2,1
+2936,Petronyevic,Brana,UNI,2,1
+2937,Politch,Ladislas,UNI,2,1
+2938,Ulmansky,Sava,UNI,3,4
+2939,Vulic,N.,COMNAT,2,7
+2940,Zolger,Ivan,UNI,2,1
+2941,Lascar,Stephane,NGO,2,1
+2942,Tugendhat,Georg,NGO,2,1
+2943,Stuart Goger,C.,NGO,2,1
+2945,Spiller,N.,PUBLI,1,3
+2946,Popovitch,G.,LONO,3,1
+2947,Fraudhardt,Fred,NGO,2,1
+2948,Wolloff,A. W. (?),COMNAT,2,2
+2949,Angyal,David,UNI,2,1
+2950,Apponyi,Albert,DELSDN,2,2
+2951,Bartoniek,Geza,EDUC,2,1
+2952,Berczeviczy,Albert de,COMNAT,2,9
+2953,Concha,Victor,UNI,2,1
+2954,Csaszar,Klemir,UNI,2,1
+2955,Frohlich,Isidore,UNI,2,1
+2956,Gombocz,Zoltan,UNI,2,1
+2957,Heller,Bernard,EDUC,2,1
+2958,Istovan,Lejti,NGO,2,1
+2959,Kovesligethy,de,UNI,2,1
+2960,Kurschek,Josef,UNI,2,1
+2961,Magyary,Geza de,UNI,2,1
+2962,Mauritz,B.,NGO,2,1
+2963,Pasteiner,Ivan,CULTURE,2,4
+2964,Pauler,A.,UNI,3,1
+2965,Petrovics,A.,CULTURE,2,1
+2966,Rados,,UNI,3,1
+2967,Ravasz,L.,NGO,2,1
+2968,Vegh,Jules de,CULTURE,2,1
+2969,Wlassics,Jules,GOV,2,1
+2970,Viviani,,UNK,2,2
+2973,Ryan,A.,ADMIN,3,1
+2974,Buxton,,LONO,2,2
+2975,Gundersen,Carl,CULTURE,2,1
+2976,Loveday,A.,FINECO,2,6
+2977,Salandra,Antonio,SECRG,2,4
+2978,Kittredge,F. B.,NGO,2,1
+2979,Caravglanoff,Z.,COMNAT,2,1
+2981,Babak,Edward,UNI,2,1
+2982,Bazant,,UNI,2,1
+2983,Blaha,A.,UNI,3,1
+2984,Chalupny,E.,NGO,2,1
+2985,Freund,L.,UNI,3,1
+2986,Friedrich,Gustav,UNI,2,1
+2987,Groh,F.,UNI,2,1
+2988,Hora,V.,UNI,3,1
+2989,Kadlec,Charles,UNI,2,1
+2990,Kallab,Jaroslav,UNI,2,2
+2991,Klir,,UNI,2,1
+2992,Krcrnery,S.,NGO,3,1
+2993,Murko,M.,UNI,3,1
+2994,Naegle,August,UNI,2,1
+2995,Niederle,L.,UNI,2,1
+2996,Novak,I.,CULTURE,2,1
+2997,Pastrnek,,NGO,2,1
+2998,Radl,Em.,NGO,3,1
+2999,Rauchberg,Henri,UNI,2,1
+3000,Tischer,F.,CULTURE,2,1
+3001,Tobolka,J.,CULTURE,2,2
+3002,Vondrak,V.,UNI,2,1
+3003,Zilka,F.,UNI,2,1
+3004,Zubaty,J.,COMNAT,2,10
+3005,Linvingston,Burton E.,NGO,2,1
+3006,Knowles,C.,GOV,2,1
+3008,Wang King Ky,,DIPLO,2,3
+3009,Marouzeau,Jules,UNI,2,4
+3010,Esmarch,Aug.,GOV,2,2
+3011,Borle,G.,NGO,3,1
+3012,Busuioceanu,Al.,IICI,2,9
+3013,Duyvis,F. Donker,UNI,2,5
+3015,Puksov,,CULTURE,1,5
+3017,Meyer,E.,NGO,3,1
+3018,Strohl,J.,UNI,2,5
+3019,Dubost,Jeanne,EDUC,1,1
+3020,Mazerolle,Fernand,CULTURE,2,1
+3021,Arnesen,Arne,OIT,2,1
+3022,Hoeffer,Ernst,CULTURE,2,1
+3023,Desclos,A. ,UNI,2,4
+3024,Gourd,Emilie,FEM,1,5
+3025,MacMillan,Chrystal,FEM,1,1
+3026,Witt Schlumberger,Marguerite de,FEM,1,1
+3027,Novor,Rene,NGO,2,1
+3028,Sperling,R.,GOV,3,1
+3029,Hercod,Robert,NGO,2,2
+3030,Beelaerts van Blockland,Jonkheer,GOV,2,2
+3031,Nemry,Leon,DIPLO,2,1
+3032,Reuter,Emile,GOV,2,1
+3033,Franck,,NGO,2,1
+3034,Bauer,Kutna Hora,UNI,2,1
+3036,Bloch,Camille,CULTURE,2,1
+3037,Stepowski,,CULTURE,2,1
+3038,Zeeman,P.,UNI,2,1
+3039,Gates,C. F.,EDUC,2,1
+3040,Allee,W. C.,NGO,3,1
+3041,Devlin,William,EDUC,2,1
+3042,Howe,Charles,EDUC,2,2
+3043,Tawney,G. A.,UNI,3,1
+3044,Tyler,H. W.,UNI,3,2
+3045,Stoppani,Pietro,FINECO,2,11
+3046,Kalbach,L. A.,GOV,2,1
+3047,Laer,H. Van,ETU,2,3
+3048,Lescaze,Julien,NGO,2,1
+3050,Moore Ede,William,NGO,2,1
+3051,Sustrac,Charles,CULTURE,2,2
+3052,Dorp,Elisabeth Van,COMNAT,1,6
+3053,Kohl,Halkema,GOV,2,1
+3054,Lorentz-Kaiser,A.C.,NGO,1,1
+3055,Walre de Bordes,Jan,JEUNE,2,3
+3056,Bruccoleri,Avv. G.,UNI,2,2
+3057,Petit Dutaillis,(Mr),UNI,2,5
+3058,Campbell,R. B.,NGO,2,1
+3059,McDonald,Emma,ETU,1,1
+3060,Lowes-Dickinson,G.,UNI,2,5
+3062,Perigord,Paul,UNI,2,1
+3063,Wigmore,J. H.,UNI,2,6
+3064,Gehmani,,DIPLO,2,1
+3065,Monbing,,GOV,2,1
+3066,Herrera,A. L.,UNI,2,2
+3067,Weck,Guillaume de,NGO,2,3
+3068,Craig,Martha,NGO,1,1
+3069,Wilson,Hugh R.,DIPLO,2,1
+3071,Frank,Paul,NGO,2,2
+3072,Hirschman,M. C. A. W.,NGO,2,1
+3073,Etienne,H. ,NGO,2,4
+3074,Araki,T.,UNI,2,1
+3075,Mano,B.,UNI,2,2
+3076,Lyon-Caen,,UNI,2,2
+3077,Bello-Codesido,Emilio,DELSDN,2,2
+3078,Arocha,,UNK,2,3
+3079,Hotchkiss,Thomas W.,NGO,2,1
+3080,Gentile,Giovanni,UNI,2,1
+3081,Toynbee,Arnold,UNI,2,3
+3082,Flexner ,Abraham,NGO,2,1
+3083,Ballobar,,NGO,2,1
+3084,Beau,M.,DIPLO,2,1
+3085,Bugge-Wicksell,Anna,NGO,1,1
+3086,Freire d'Andrade,,GOV,2,1
+3087,Lugard,F.D.,NGO,3,3
+3089,Ortz,Pierre,DIPLO,2,1
+3090,Rees,Van,GOV,2,1
+3091,Theodoli,Alberto,GOV,2,1
+3092,Yanagida,Kunio,GOV,2,1
+3093,Herriot,Edouard,GOV,2,2
+3094,Matsuda,,DELSDN,2,4
+3095,Varona,Enrique Jose,NGO,2,1
+3097,Munch,Peter,COMNAT,2,11
+3098,Anguelou,B.,CULTURE,3,1
+3099,Ballinger,John,CULTURE,2,1
+3100,Bayle,Ch.,CULTURE,2,1
+3101,Bianu,J.,CULTURE,2,4
+3102,Binz,,CULTURE,2,2
+3103,Bowen,A.,UNI,2,2
+3104,Clemons,Harry,CULTURE,2,1
+3105,Cortesao,Jaime,CULTURE,2,1
+3106,Crump Enderson,Elizabeth,NGO,1,1
+3107,Delbeau,Victor,GOV,2,1
+3108,Ellefsen,,CULTURE,3,1
+3109,Gaselee,Stephen,GOV,2,2
+3110,Ifould,W. H.,CULTURE,3,1
+3111,Lloyd,A. C. G.,CULTURE,3,1
+3112,Mejenko,G.,UNI,2,1
+3113,Nicholson,,CULTURE,3,1
+3114,Ota,E.,CULTURE,3,1
+3115,Parker,Donald W.,CULTURE,2,1
+3116,Puscariu,Sextil,UNI,2,7
+3117,Richard,,UNI,3,1
+3118,Ring,E. M.,CULTURE,3,1
+3119,Schauman,Georg,CULTURE,2,1
+3120,Schmeil,Werner,NGO,2,1
+3121,Schwarz,,CULTURE,2,2
+3122,Sidhura,Phya Anukich,UNI,3,1
+3123,Silva Cruz,C.,CULTURE,3,1
+3124,Taam,C. W.,CULTURE,3,1
+3125,Tai,S. C.,CULTURE,2,1
+3126,Wallace,W. S.,CULTURE,3,1
+3127,Zivny,Ladislav J.,UNI,2,1
+3128,Roussoba,Sophie,NGO,1,2
+3130,Smets,Charles,FINECO,2,13
+3132,Ariste,,CULTURE,2,1
+3133,Beier,,NGO,2,1
+3134,Marich,A. H. de,NGO,2,1
+3135,Cadigan,Alexander,GOV,2,4
+3136,Campbell,Ronald H.,GOV,2,2
+3137,Butler,M.E.,NGO,3,1
+3138,Hammond,N.W.,EDUC,2,1
+3139,Rooker,J. K.,NGO,2,1
+3140,Benes,Edouard,GOV,2,1
+3141,Branting,Hjalmar,GOV,2,1
+3142,Flury,Franz,NGO,2,1
+3143,Guani,Alberto,SECRG,2,7
+3145,Parmoor,,GOV,2,1
+3146,Souza-Dantas,,DELSDN,2,3
+3147,Sugimura,Y.,TRANSIT,2,5
+3148,Morales,A.,GOV,2,3
+3149,Weferling,Erich,NGO,2,2
+3150,Sharpe,S. Maud,NGO,2,3
+3153,Rottner,,NGO,2,3
+3154,Foucart,George,NGO,2,1
+3155,Roncalgi,,NGO,2,1
+3156,SuarezJL,Jose Leon,UNI,2,1
+3157,Zeballos,E. S.,NGO,3,1
+3158,Lippmann,Louis,NGO,2,1
+3159,Smeets,,FINECO,3,1
+3160,Menten,,DIPLO,2,2
+3161,Lovelace,Manl de J.,GOV,2,1
+3162,Vicini Burgos,J. B.,GOV,2,1
+3163,Lyttelton,Edith,DELSDN,1,1
+3164,Morize,,GOV,2,3
+3165,Ferenczi,Imre,OIT,2,1
+3166,Sallois,H.,OIT,2,1
+3167,Magnusson,L.,OIT,3,1
+3168,Trevisani,,CULTURE,3,2
+3169,Coleman,Algernon,UNI,2,12
+3170,Krans,Horatio S.,UNI,2,3
+3171,Bertie,A. M.,ADMIN,2,4
+3173,Sahm,,GOV,2,4
+3174,Bachmann,E.,NGO,2,1
+3175,Paul-Huguet,Edgart,NGO,3,1
+3176,Reveillaud,,NGO,2,1
+3177,Kerkhof,,NGO,2,3
+3178,Michelin,A.,NGO,2,1
+3179,Montessus de Ballore,R. de,NGO,2,2
+3180,Bucys,P. (Franeois ?),COMNAT,2,3
+3181,Feldmans,Jelijs,COMNAT,2,1
+3182,Issaiev,V. J.,NGO,2,1
+3183,Langfors,,NGO,2,1
+3184,Lutostanski,Karol,COMNAT,2,9
+3186,Petresco-Comnene,,DIPLO,2,4
+3187,Pusta,Charles Robert,DIPLO,2,2
+3188,Toevola,U.,DELSDN,2,1
+3189,Vilkov,Al.,NGO,2,1
+3190,Zerega-Fombona,A.,UNI,2,4
+3191,Stokes,Anson Phelps,NGO,2,1
+3192,Oram,Jessie E.,ETU,1,1
+3193,Dupierreux,R.,IICI,2,44
+3197,Franqui,,GOV,2,1
+3198,Mahaim,Ernest,DELSDN,2,2
+3199,Walters,,DELSDN,2,1
+3200,Ibrovac,Miodrag,COMNAT,2,1
+3201,Tzitzeica,Georges,COMNAT,2,2
+3202,Bhore,J. W.,GOV,2,3
+3203,Patrick,P. J.,GOV,2,3
+3204,Foster Bain,H.,GOV,2,1
+3205,Kling,,UNI,2,1
+3206,Mott,William E.,UNI,2,1
+3207,Barboza Carneiro,J.A.,FINECO,2,2
+3208,Bartlett,Vernon,NGO,2,6
+3209,Cavendish Bentinck,Victor,DELSDN,2,10
+3210,Michelet,C. F.,GOV,2,1
+3211,Dawson,W. E.,GOV,2,4
+3212,Wade,B. H.,GOV,2,1
+3213,Beaupin,E.,NGO,2,3
+3214,Mussolini,Benito,GOV,2,5
+3216,Meikle,H. W.,UNI,2,9
+3220,Vittas,C.,COMNAT,2,1
+3221,Albert,Franeois,GOV,2,3
+3222,Myers,Denys P.,NGO,2,3
+3223,Eybye,,NGO,2,1
+3224,Gorvin,John,NGO,2,3
+3226,Lennep,van,DIPLO,2,2
+3227,Wierczynski,Jan,UNI,2,1
+3228,Androutizos,Nicolas,NGO,2,1
+3229,Veszpremy,Desider de,UNI,2,1
+3230,Lange,Robert,NGO,2,1
+3231,Milde,J.,ETU,2,1
+3232,Silberstein,Zoya,IICI,1,3
+3233,Casanova,E.,UNK,2,1
+3234,Kozai,Y.,UNI,2,1
+3235,Vilders,A.,ETU,3,1
+3236,Cseskey,Etienne de,UNI,2,1
+3237,Jonynas,Ignace,COMNAT,2,4
+3238,Mayr,Kaspar,NGO,2,2
+3239,Motzkin,L.,NGO,2,1
+3240,Gry,Leon,UNI,2,1
+3241,Duyvendak,J.,UNI,3,1
+3242,Pitamic,Leonid,COMNAT,2,1
+3243,Miyajima,T.,UNI,3,1
+3244,Mihalovich,A.,UNI,2,1
+3245,Szabo,Janos,GOV,2,1
+3246,Tavoularis,Themisto les D.,EDUC,2,1
+3248,Doktorowicz,Henri,NGO,2,1
+3249,Jacoby,Siegfried,NGO,2,1
+3250,Lauterpacht,Zwi,ETU,3,2
+3251,Struve,Petr. Berngardovic,COMNAT,2,4
+3253,Sunfizo,K. C.,UNI,3,1
+3255,Salomon,A.,GOV,2,4
+3259,Mounsey,George,GOV,2,1
+3260,Burrell,Robert,NGO,2,1
+3261,Clauzel,,DELSDN,2,8
+3264,Garay,Narciso,LONO,2,2
+3266,Abbott,C. G.,CULTURE,3,2
+3267,Lecomte,Georges,NGO,2,1
+3268,Berthelot,Pierre,COMNAT,2,4
+3269,Efremoff,Jean,IICI,2,1
+3270,Zilliacus,K.,INFO,3,1
+3271,Cohen,J.,UNI,2,1
+3272,Huizinga,J.,UNI,3,1
+3273,Ittersun,Van,UNK,2,3
+3274,Kluyver,A.,UNI,2,1
+3275,Pasquier,Marcel du,GOV,2,4
+3278,Rosting,Helmer,SECRG,2,4
+3279,Thomas,A. S. W.,EDUC,2,2
+3281,Vezensky,,GOV,2,1
+3282,Welsch,,GOV,2,1
+3283,Manneback,Charles,UNI,2,1
+3284,Pieters,Maurice,UNI,2,1
+3285,Brundler,Johann,NGO,2,1
+3286,Hiam,,TRANSIT,2,2
+3287,Gibson,Hugh,DIPLO,2,1
+3288,Mello-Franco,Afranio de,SECRG,2,8
+3289,Modart,G. R.,NGO,3,1
+3290,Epstein,F.,NGO,3,1
+3291,Ledtke,Gerhard,RELUN,2,8
+3293,Neuer,Erich,NGO,2,1
+3294,Strupp,Karl,NGO,2,1
+3295,Dudley,H. W.,NGO,2,1
+3297,Sorensen,N. P.,NGO,2,1
+3298,Traidos,,GOV,2,8
+3300,PollardAW,A. W.,CULTURE,2,1
+3301,Scotti,A. M.,COMNAT,1,2
+3302,Estelrich,Joan,COMNAT,2,1
+3303,Vallery-Radot,,CULTURE,2,1
+3304,Akel,Friedrich,GOV,2,1
+3305,Milec,Ivan,NGO,2,1
+3306,Vahervuori,T. O.,COMNAT,3,2
+3307,Balanoff,J.,UNI,2,1
+3308,Boal,P. M.,DIPLO,3,2
+3309,Carrington Lancaster,H.,NGO,2,6
+3310,GilchristHe,Herbert,LONO,2,1
+3311,Soehring,,DIPLO,2,9
+3312,Winslow,Alan,DIPLO,2,1
+3313,Podoski,Joseph,COMNAT,2,3
+3314,Cantacuzene,Alex. G.,FEM,1,4
+3315,Otetelisanu,E.,GOV,2,4
+3316,Parvan,V.,COMNAT,2,15
+3317,Zamfiresco,Alex.,COMNAT,2,2
+3318,Brocher,Therese,NGO,1,1
+3319,Catastini,Vito,MANDAT,2,6
+3322,Fox,E. James,NGO,2,1
+3323,Knudsen,Sven V.,NGO,2,1
+3324,Svane,H. A.,NGO,2,1
+3325,Grognard,E.,NGO,2,1
+3327,Lory,Chas. A.,NGO,2,1
+3328,Fulcher,Gordon S.,NGO,2,3
+3329,Abrahm,Henri,NGO,2,2
+3330,Cotton,(Aime?),UNI,2,2
+3331,Cooper,W.R.,NGO,2,3
+3332,Langevin,P.,BIBLIO,2,6
+3333,Marie,Charles,UNI,2,4
+3334,Ricketts,Palmer C.,UNI,2,1
+3335,Fackenthal,Frank D.,UNI,2,1
+3336,Kandel,,EDUC,2,2
+3337,Monroe,Paul,EDUC,2,1
+3338,Arlady,Edith,UNI,1,1
+3339,Maddison,Isabel,FEM,1,1
+3340,Andreasen,R. J.,UNI,3,1
+3341,Cottrell,F. G.,NGO,3,2
+3342,Morris,Alice V.,NGO,1,2
+3343,YuenRenChao,,UNI,3,1
+3344,Whitford,Robert C.,EDUC,2,1
+3345,Netherwood,Helen M.,EDUC,1,1
+3346,Wright,Nellie A.,CULTURE,1,1
+3347,Ford,A. Y.,UNI,2,1
+3348,Lindsay,,UNI,1,1
+3349,Carter,Grace M.,EDUC,1,1
+3350,Reinhard,Ethel O.,UNI,1,1
+3351,Deerley,Homer H.,EDUC,2,1
+3352,McNair,F. W.,NGO,2,1
+3353,Smith,Henry Louis,UNI,2,1
+3354,Hoover,Harvey D.,EDUC,2,1
+3355,Barr,Jean B.,UNI,2,1
+3356,Cronk,V.,EDUC,3,1
+3357,Scheel,Karl,GOV,2,4
+3358,Thirring,Hans,UNI,2,3
+3359,Figueroa,Carlos Silva,GOV,2,1
+3360,Flowers,R. L.,UNI,3,1
+3361,Weisgerber,,UNI,2,1
+3362,Willems,Edouard,UNI,2,6
+3363,Arfah-ed-Dowleh,,DELSDN,2,1
+3364,Ol-Molk,Zoka,GOV,2,1
+3365,Gidel,Gilbert,NGO,2,1
+3366,Chamberlain,C. W.,UNI,3,1
+3367,Douglas Laurie,R.,UNI,2,1
+3368,Castro e Almeida,Virginia de,COMNAT,1,3
+3369,Ferreira,,DIPLO,2,1
+3370,Bradfield,B,NGO,1,1
+3371,Krajicek,Josef,UNK,2,1
+3372,Gilchrist Wilson,E.,UNI,1,1
+3373,Vrioni,Ilias Bey,GOV,2,1
+3374,Brockelbank,W. J.,UNI,2,1
+3375,Johnston,E. ,OIT,2,2
+3376,Roques,Mario,OIT,2,1
+3377,Campe,Miguel Angel,GOV,2,7
+3378,Chatterjee,Atul C.,GOV,2,3
+3379,Ferrier,J. P.,PUBLI,2,3
+3380,Wessel,,GOV,3,1
+3381,Hurley,Helen C.,EDUC,1,1
+3382,Mann,C. R.,EDUC,2,4
+3383,Robertson,David A.,EDUC,2,1
+3384,Dorsey,H.W.,CULTURE,2,3
+3385,Walcott,Ch.,CULTURE,2,1
+3386,Benedetti,M. V.,GOV,2,3
+3389,Janisky,H.,NGO,2,1
+3390,Frick,E. A.,NGO,2,1
+3391,Jankausnas,Platon,UNK,2,1
+3392,Albat,G.,GOV,2,6
+3393,Escaille,B. de l',DIPLO,2,1
+3394,Saliamoras,B.,CULTURE,3,1
+3395,Nagy de Versegh,Alexis,DELSDN,2,1
+3396,Tibal,A.,UNI,2,1
+3397,Graham,,PUBLI,2,1
+3398,Seymour,Helen,CULTURE,1,1
+3399,Bogner,August,NGO,2,1
+3400,Kliment,Florenz ,NGO,3,1
+3401,Guglielmi,,UNI,2,1
+3402,Radford Sharpe,D.,NGO,3,1
+3403,Turnbull,A. L.,NGO,3,2
+3404,Debye,Pierre J. W.,UNI,2,1
+3405,Allen,B. M.,UNK,3,1
+3406,Bridara,Klumbiraj,DIPLO,2,1
+3407,Janowitz,Albert,UNK,2,1
+3409,Rist,Charles,UNI,2,5
+3410,Friedrich,Karl Johachim,NGO,2,1
+3412,Krause,,UNI,3,1
+3413,Hardy,E. R.,NGO,3,1
+3414,Madrid,Samuel de,NGO,2,1
+3415,Willems,Jean,UNI,2,1
+3416,Kelway,Geraldine,FEM,1,1
+3417,Puech,Marie-Louise,FEM,1,2
+3418,Sadler,Michael,NGO,2,1
+3419,Snouck Hurgronje,A. M.,GOV,2,1
+3420,Santullano,L. A.,GOV,2,1
+3421,Belu,,EDUC,1,1
+3422,Gabor,Jeanne,EDUC,1,1
+3423,Grimm,Valerie,NGO,1,1
+3424,Sadoveanu,Radula,FEM,1,1
+3425,Jean Louis,Victor D.,NGO,2,1
+3426,Wassylj,Oreleckyj,ETU,3,2
+3428,Lugones,Leopoldo,CICI,2,12
+3429,Jakob,H.,NGO,2,1
+3430,Arnould,,LONO,3,1
+3431,Bubnoff,Nicolas,UNI,2,1
+3432,Ciraolo,,NGO,2,1
+3433,Ehrenfels,,UNK,3,1
+3434,Franz,Simon,UNI,2,1
+3435,Johnson,T. F.,LONO,2,2
+3436,Pietromarchi,Luca,LONO,2,3
+3437,Pouchine,N.,UNI,2,1
+3438,Rajchman,L.,SANTE,2,9
+3439,Schlesinger,,NGO,3,1
+3440,Doude Van Troostwijk,W.,DIPLO,2,6
+3441,Aikins,J. A. M.,GOV,2,1
+3442,Brett,R. G.,GOV,2,1
+3443,Brownlee,J. E.,NGO,2,1
+3444,Hunt,John D.,GOV,2,1
+3445,Macdonald,J. A.,NGO,2,1
+3446,Newlands,H. W.,GOV,2,2
+3447,Trowbridge,E.,GOV,2,1
+3448,Schmidt,Louis Bernard,EDUC,2,1
+3449,Calhoun,George M.,UNI,2,1
+3450,Harrison,M.A.,NGO,2,1
+3451,Pascal,Carlo,UNI,2,1
+3452,Pasquali,Giorgio,UNI,2,1
+3453,Porteous,Margaret,NGO,1,2
+3454,Postgate,J. P.,NGO,2,2
+3455,Przychocki,Gustave,UNI,2,1
+3456,Zielinski,Tadeusz,UNI,2,1
+3457,Slavik,V.,LONO,2,4
+3458,Fries,Karl,NGO,2,1
+3459,James,F. E.,UNK,2,1
+3460,Sen,Jitendra Mohan,NGO,2,1
+3461,Laya,Jean-Franeois,NGO,2,1
+3462,Boheman,,GOV,3,1
+3463,Rogers,Edward S.,NGO,2,1
+3464,Cantone,,UNI,2,1
+3465,Kilian,,UNI,3,1
+3466,Nicolas,,UNI,3,1
+3467,Noblecourt,P.,UNI,2,1
+3468,Selys-Longchamps,de,UNI,2,1
+3470,Turull-Fournols,Paul M.,NGO,2,1
+3471,Remon,Georges,CULTURE,2,1
+3472,Balinski-Jundzill,Jean,ETU,2,9
+3473,Kopecky,,NGO,3,1
+3474,Soltan,Jean,ETU,2,1
+3475,Leimgruver,O.,NGO,2,1
+3477,Vries de Heekelingen,H. de,COMNAT,2,1
+3478,Briod,U.,EDUC,2,2
+3480,Champod,M.,NGO,2,1
+3481,Mottaz,Eug.,NGO,2,1
+3482,Rivier,Louis,NGO,2,1
+3483,Targonski,A,NGO,3,1
+3484,Bungartz,E.,ETU,3,1
+3485,Camp,Georges,ETU,2,1
+3486,Korda,Pierre J.,ETU,2,1
+3487,Schmid,E.,ETU,3,1
+3488,Ley,A. H.,GOV,2,1
+3489,Konek Norwall,Fritz V.,NGO,2,1
+3490,Sutton,Ransome,NGO,2,1
+3491,Strelecki,J. C. de,CULTURE,3,1
+3492,Leris,Pierre,NGO,2,1
+3493,Tassy,Edme,NGO,3,1
+3494,Marinesco,G.,NGO,2,4
+3495,Wurtemberg,E. Marks de,GOV,2,1
+3496,Quidde,L.,NGO,2,1
+3497,Sappl,Hanns,NGO,2,1
+3498,Zahle,Herluf,DELSDN,2,2
+3499,Boggs,Randolph M.,GOV,2,2
+3500,Holley,Francis,GOV,2,1
+3501,Ellis,Don Carlos,NGO,2,1
+3502,Hertzog,James Barry Munnik,GOV,2,3
+3504,Weissweiler,Emile,NGO,2,1
+3505,Pullen,Carl W.,NGO,2,2
+3507,Campbell,H. J.,EDUC,3,1
+3508,Staines,D. V.,DELSDN,2,1
+3509,Mager,Jerg,EDUC,2,1
+3510,Bogrea,V.,UNI,3,1
+3511,Burton Stevenson,,CULTURE,2,1
+3512,Crompton,T.,NGO,3,1
+3513,Drummond,H. A.,EDUC,1,1
+3514,Gregg,Alan,NGO,2,1
+3515,Grimm,Pierre,UNI,2,1
+3516,Grintescu,I.,UNI,2,1
+3517,Jonescu,J. B.,NGO,3,1
+3518,Kisch,G.,UNI,3,1
+3519,Lydenberg,H. M.,NGO,2,2
+3520,Negrea,C.,UNI,2,1
+3521,Nitzersco,,UNI,3,1
+3522,Petran,Coriolan,UNI,2,1
+3523,Tataru,,NGO,3,1
+3524,Cherrett,F.,NGO,1,1
+3525,Ferrier,G.,EDUC,2,1
+3526,Fleming,W. A.,UNI,3,2
+3527,Kaivers,Andre,NGO,2,1
+3528,Prezzolini,Giuseppe,IICI,2,35
+3532,Sigorski,,NGO,3,1
+3533,Vandervlugt,E.,NGO,2,1
+3534,Antizoff,N.,ETU,2,1
+3536,Tcherkefsov,Jean,ETU,2,1
+3537,Paschen,F.,NGO,2,1
+3538,Hochreutiner,GPG,NGO,2,1
+3539,Vasconcellos,Augusto de,DELSDN,2,3
+3540,Arnold,W.,NGO,2,1
+3541,Schulthess,G. de,GOV,2,1
+3542,Nansen,Fridtjof,UNI,2,1
+3543,Chatin,A.,NGO,3,1
+3544,Kalogeropoulos,Panagiotes D.,NGO,2,1
+3545,Koukoules,Phaedon,NGO,2,1
+3546,Sassaman,W. R.,ETU,3,1
+3547,Rowe,L. S.,NGO,2,3
+3548,Lambie,Morris B.,NGO,2,1
+3549,Natalini,Osvaldo,NGO,2,1
+3550,Benteli,,NGO,3,1
+3551,Bieler,J. H.,FINECO,2,7
+3552,Odend'hal,G.,CULTURE,2,1
+3553,Sichler,A.,CULTURE,3,1
+3554,Wissler,G.,CULTURE,3,1
+3555,Gilmore,M. G. M.,IICI,1,4
+3556,Klein,Peter,NGO,2,1
+3557,Amberg,Emil,NGO,2,1
+3559,Riddell,W. A.,GOV,3,4
+3560,Hakki,Ismail,UNI,2,1
+3561,Brightman,Edgar Sheffield,UNI,2,1
+3562,Piper,Otto,NGO,2,1
+3563,Baumberger,J. P.,UNI,2,1
+3564,Quartier la Tente,Ed.,NGO,2,1
+3565,Banesco,N.,UNI,2,1
+3566,Briand,Aristide,GOV,2,7
+3569,Jouvenel,Henry de,IICI,2,7
+3570,Nutt,Marie,NGO,1,1
+3571,Guerin-Desjardins,J.,NGO,2,2
+3572,Auerbach,Siegfried,NGO,2,1
+3573,Charlton,Matthew,LONO,2,1
+3574,Larsson,Hans,NGO,2,1
+3575,Sakotowski,Ceslas,UNI,2,1
+3576,Tobey,James A.,GOV,2,1
+3577,Bretherton,Gladys E.,FEM,1,2
+3578,Clarkson Miller,Helen,EDUC,1,2
+3579,Hanszer,Max,NGO,2,1
+3580,Duca,J.,DELSDN,2,3
+3581,Garcia Calderon,Francesco,NGO,2,1
+3582,Loudon,Jonkheer,DELIICI,2,1
+3583,Mangin,,CULTURE,2,2
+3584,Seymour,Charles,UNI,2,1
+3585,Trowbridge,Augustus,UNI,2,4
+3586,Stor,Albert,NGO,2,1
+3587,Privat,Edmond,NGO,2,2
+3588,Miner Hadden,Maude,ETU,1,2
+3589,Denis,P.,FINECO,2,4
+3590,Medici,J.,DELSDN,2,1
+3591,White,Norman,UNK,2,2
+3592,Childe,A.,CULTURE,2,2
+3593,Dvoracek,J.,FINECO,2,1
+3594,Hanna,R. W.,NGO,3,1
+3595,Hill,H. F.,NGO,3,1
+3596,Llewellyn Smith,Hubert,NGO,2,2
+3597,Serruys,,GOV,2,3
+3599,Russell,Frank M.,UNI,2,1
+3600,McGeachy,Mary Craig,NGO,1,2
+3601,Monachon,,NGO,3,2
+3602,Lauterbach,C. E.,EDUC,3,1
+3603,Teasdale,Alderman C. J.,NGO,2,1
+3604,Constantinides,E.,EDUC,1,1
+3605,Horner,N. G.,NGO,2,1
+3606,Williams,K.,NGO,2,1
+3607,Roussel,F.,GOV,2,2
+3608,Bech,Joseph,GOV,2,1
+3609,Aschmann,,DIPLO,2,7
+3610,Kent,N. A.,NGO,2,1
+3611,Binder,Jacob W.,NGO,2,1
+3612,House,E. M.,NGO,3,1
+3613,Theremin,Richard,NGO,2,1
+3614,Tewari,Pandit Sant Ram,NGO,2,1
+3615,Catargi,A.,FEM,1,1
+3616,MacWhite,M.,DELSDN,2,3
+3617,Procope,Hjalmar,GOV,2,2
+3618,Meyer,L.,CULTURE,2,1
+3619,Dankwort,,DIPLO,2,1
+3620,Durville,Henri,NGO,2,1
+3622,Arrieta Rossi,Reyes,GOV,2,5
+3624,Guerrera,J. Gustavo,DELSDN,2,2
+3625,Venditelli,M.,NGO,3,1
+3626,Sturzen-Becker,Astrid,NGO,1,1
+3627,Burlet,C. de,NGO,2,1
+3628,Mahieu,,NGO,2,1
+3629,Castro Ramirez,Manuel,COMNAT,2,1
+3630,Carr,Georgina E.,NGO,2,1
+3631,Hemingway,Charles R.,NGO,2,1
+3632,McCowen,Oliver H.,NGO,2,2
+3634,Robinson,Edgar. M.,NGO,2,1
+3635,Mandere,Van der,NGO,2,1
+3636,Storrs,Ronald,GOV,2,1
+3637,Fermor,L. L.,NGO,2,1
+3638,Norton,Marnoel,GOV,2,1
+3639,Phaff,J. M.,NGO,2,2
+3640,Rouville,A. de,GOV,2,1
+3641,Keeling,Guy W.,CULTURE,2,2
+3642,Ridley,Arthur F.,CULTURE,2,1
+3643,Valaori,,GOV,2,1
+3644,Zlatarsni,K. N.,COMNAT,2,1
+3645,Hamblen,,LONO,2,1
+3646,Jaccard,Remi,NGO,2,1
+3647,Wissmer,Alex,NGO,2,1
+3648,Pons,,UNI,3,1
+3649,Esty,Frances F.,NGO,2,1
+3650,Szperl,Ludwik,COMNAT,2,2
+3651,Clavier,Jean,EDUC,2,1
+3652,Kiroff,A.,DIPLO,2,1
+3653,Hotchkiss,Margt. S.,NGO,1,1
+3654,Hamilton-Gordon,Ishbel,FEM,1,2
+3655,Zimmern,Elsie M.,FEM,1,5
+3656,Booth,Willis H.,NGO,2,1
+3657,Meller,Heinrich,NGO,2,1
+3658,O'Molony,William,NGO,2,1
+3659,Small,Lothian,NGO,2,2
+3660,Gogin,Gertrude,FEM,1,1
+3661,Mills,M. M.,FEM,1,1
+3662,Niven,Charlotte T.,NGO,1,1
+3663,Cleland,W. H.,GOV,2,1
+3664,Egbert,W.,GOV,2,1
+3665,MacLean,J. D.,GOV,2,1
+3666,Skelton,O. D.,GOV,2,1
+3667,Tory,James C.,GOV,2,1
+3668,White,J. L.,GOV,2,1
+3669,Gunther,Georg,NGO,2,1
+3670,Bruckner,Hans,NGO,2,1
+3671,Butterworth,C. H.,NGO,2,1
+3672,Miegl,Ing. J. P.,NGO,2,1
+3673,Salama Effendi,Abdalla,NGO,2,1
+3674,Stiles,John A.,NGO,2,1
+3675,West,J. E.,NGO,2,1
+3676,Cardona,Antoni,ETU,2,1
+3677,Rowell,P.F.,NGO,3,2
+3678,Sil-Vara,,EDUC,2,1
+3679,Fichelle,,UNI,3,1
+3680,Audollent,Auguste,UNI,2,1
+3681,Lessinoff,P.,NGO,3,1
+3682,Friis,Finn,MANDAT,2,2
+3683,Sayegusa,S.,DELSDN,2,1
+3684,Backer,A. de,NGO,2,1
+3685,Camp,H.,NGO,2,1
+3686,Gavrian,P. Le,NGO,2,1
+3687,Luckey,G. W. A.,NGO,2,1
+3688,Collins,Jos. V.,NGO,2,1
+3689,Holzer,Franz,NGO,2,1
+3690,Ivanov,Nicolas,NGO,2,1
+3691,Klein,Gaston,NGO,2,1
+3692,Pompiati,Charles,NGO,2,1
+3693,Blanco,J. C.,GOV,2,1
+3694,Morehouse,Edward W.,NGO,2,1
+3695,Michels,Roberto,BIBLIO,2,4
+3696,Figgis,,SOC,1,1
+3697,Woodruff,Clinton Rogers,GOV,2,3
+3698,Duivendak,,UNI,2,1
+3699,Welsch,Jules,UNI,2,1
+3700,Oldaker,L. T.,UNI,3,1
+3701,Sandbach,Francis E.,CULTURE,2,1
+3702,Cernik,Berthold,CULTURE,2,1
+3703,Strasser,Josef,CULTURE,2,1
+3704,Papadakis,N. J.,CULTURE,2,1
+3705,Herzfeld,H.,NGO,2,1
+3706,Walko,,GOV,3,1
+3707,Fisher,H. A. L.,UNK,2,1
+3708,Dreyfuss,,NGO,2,1
+3709,Jergenson,A.,GOV,2,1
+3710,Mowinckel,Johan Ludwig,GOV,2,2
+3711,Tittoni,,GOV,2,1
+3712,Barbatt,V.,UNI,2,1
+3713,Stefanescu-Goanga,,UNI,2,1
+3714,Macadam,Ivision S.,ETU,2,8
+3715,Crawford,,GOV,2,1
+3716,Knibbs,George H.,UNI,2,6
+3717,Saenz,Aaron,GOV,2,1
+3719,Woelmont,H. de,NGO,2,1
+3720,Eisler,R.,IICI,2,3
+3721,Chapman,H.,NGO,2,1
+3722,Mitchell,Wesley C.,NGO,2,1
+3723,Ogburn,William F.,BIBLIO,2,5
+3724,Szabo,Jochann,NGO,2,1
+3726,Wehrer,Albert,NGO,2,2
+3727,Fern Andrews,Fanny,NGO,1,1
+3728,Beresovski-Chestov,T.,IICI,2,4
+3729,Cornelissen,Fred,IICI,2,6
+3731,Locquin,Jean,NGO,2,1
+3732,Maquet,J.,NGO,2,1
+3733,Proh,Germaine,NGO,1,1
+3734,Thurler,Adele,NGO,2,3
+3735,Parisi,Constantino,NGO,2,1
+3736,Pericoli,Paolo,NGO,2,1
+3737,Glazebrook,Otis A.,DIPLO,2,1
+3738,Mirkoff,,DIPLO,2,1
+3739,Thomas,L.R.,UNI,2,1
+3741,Farrell,W. J. H.,GOV,2,1
+3742,Oiderman,,GOV,2,2
+3743,Alvarado,R. Alvarez,DELSDN,2,2
+3744,Benedict,Elsie Graves,NGO,1,2
+3745,Bicknell,Ernest P.,NGO,2,1
+3746,Scott,EW.,NGO,3,1
+3747,Strong,T. B.,GOV,2,1
+3748,Cruchage,Alberto,GOV,2,2
+3751,Skrzynski,Al.,GOV,2,1
+3752,Sokal,F.,DELSDN,2,2
+3753,Bergson,L.,NGO,1,1
+3754,Cantacuzene,J. C.,GOV,2,3
+3755,Chavannes,H. E.,ETU,2,2
+3756,Gideonse,Harry D.,ETU,2,2
+3757,Beth,Marianne,NGO,1,1
+3758,Weisl,Ernst Franz,NGO,2,1
+3759,Barrau-Dihigo,L.,CULTURE,2,1
+3760,Savary,Peter J.,UNK,2,1
+3761,Heraux,Hermann,GOV,2,1
+3762,Leon,Camille,GOV,2,1
+3763,Berg,K.,ETU,2,1
+3764,Velitchko,Jean,ETU,2,1
+3765,Garrett,H. L. O. [ou H.C.O.],GOV,2,1
+3766,Stacey,F.,GOV,2,1
+3767,Bey,Husin,GOV,2,1
+3768,Charoon,,DIPLO,2,3
+3769,Hshia,,GOV,3,1
+3770,Forsyth,E.,CULTURE,2,1
+3771,Roy,Pierre Georges,CULTURE,2,1
+3772,Petersen,Carl S.,UNK,2,1
+3773,Fudakowski,,NGO,2,1
+3774,Lugeon,Maurice,NGO,2,1
+3775,Wilczek,C.,NGO,2,1
+3776,Diez de Medina,E.,GOV,2,2
+3777,Polain,Marcel,DIPLO,2,1
+3778,Doret,Frederic,DELIICI,2,3
+3779,Llaveria,Joaquin,CULTURE,2,1
+3780,Garbani Nerini,,NGO,2,1
+3782,Stevens,Gorham P.,UNI,2,1
+3783,Arran,Arthur,UNI,2,1
+3784,Carlier,,NGO,2,1
+3785,Chetelain,Ch. W.,NGO,2,2
+3786,Motta,Giuseppe,GOV,2,7
+3787,Kehler,,UNI,2,1
+3788,Remme,C.,NGO,2,1
+3789,Roubakine,N.,EDUC,2,6
+3791,Siblik,Emmanuel,IICI,2,1
+3792,Duggan,Mary Alice,ETU,1,1
+3793,Batha,Graham,CULTURE,2,1
+3794,Fruin,R.,CULTURE,2,1
+3795,Ketwich Verschuur,Van,CULTURE,2,1
+3796,Martens van Sevenhoven,A. H.,CULTURE,2,1
+3797,Moll,,CULTURE,2,1
+3798,Mool,W.,CULTURE,2,1
+3799,Ruen,Jon. C.,CULTURE,2,1
+3800,Unger,W.S.,CULTURE,2,1
+3801,Marchant,James,NGO,2,1
+3802,Schnurer,Josef,UNI,2,1
+3803,Guiral Moreno,Enrique,DELSDN,2,1
+3804,Mascaro,F.,GOV,2,1
+3805,Grenness,Otto,COMNAT,2,2
+3806,Campa,M.,GOV,2,2
+3807,Boldrini,Marcello,BIBLIO,2,2
+3808,Einaudi,Luigi,GOV,2,1
+3809,Harms,,UNI,2,3
+3810,Kostanecki,,BIBLIO,2,2
+3811,Simiand,Franeois,BIBLIO,2,5
+3813,Znaniecki,Florian,UNI,2,2
+3814,Brandeler,P. A. Van den,NGO,2,1
+3815,Boer,G. de,UNK,2,1
+3816,Raalte,Van,UNK,2,1
+3817,Sluizer,,UNK,3,1
+3818,Moe,Henry Allen,CULTURE,2,1
+3819,Chaturvedi,S. N.,EDUC,2,4
+3820,Hall,D. G. E.,UNI,2,1
+3821,Perrin-Duportal,Henriette,NGO,1,1
+3822,Arpad,Zaslo,CULTURE,2,1
+3823,Cosserat,E.,UNI,2,1
+3824,Dumba,C.,DIPLO,2,1
+3825,Menz,Sigmund,NGO,2,1
+3826,Gundry,Ronald R.,JEUNE,2,1
+3827,Vorstius,Joris,CULTURE,2,1
+3828,Michelis,de,NGO,2,1
+3829,Quesnay,,UNK,2,1
+3830,Seelig,Paul,NGO,2,1
+3831,Combe,Etienne,CULTURE,2,2
+3832,Bucknall,H.,EDUC,2,1
+3833,Marshall,H. W.,CULTURE,2,1
+3834,Vickers,H. D.,GOV,2,1
+3835,Watson,G. W.,GOV,2,1
+3836,Cundall,Frank,CULTURE,2,1
+3837,Houston,Herbert S.,NGO,2,1
+3839,Pacheo,Felix,GOV,2,1
+3840,Toesca,Pietro,ARTS,2,5
+3841,Weingartner,Felix,ARTS,2,7
+3842,Valery,Paul,ARTS,2,5
+3843,Jelinek,Hanus,ARTS,2,9
+3844,Boubier,Maurice,UNI,2,1
+3845,Sjoborg,Erik,GOV,2,1
+3846,Schulze-Gaevernitz,,IICI,2,2
+3847,Beck,M.,NGO,2,1
+3848,Kissling,,NGO,2,1
+3849,Lemmon,John,GOV,2,1
+3850,Peacock,A. J.,GOV,2,1
+3851,Strahan,F.,GOV,2,1
+3852,Baud-Bovy,Daniel,ARTS,2,13
+3853,Parra-Perez,M.,DIPLO,2,1
+3854,Braun,Otto,NGO,2,1
+3855,Weiss,Richard,NGO,2,1
+3856,Chao-Hsin-Chu,Chu,DELSDN,2,4
+3857,Hoo-Tsi,,UNI,2,2
+3858,Sciarra,Olinto,NGO,2,1
+3859,Weiss,Louise,NGO,1,1
+3860,Gordon Watson,H.,GOV,2,1
+3861,Harrison Thomas,Francesa,NGO,1,1
+3862,Jensen,Allan,EDUC,1,1
+3863,McIntyre,Anne,EDUC,2,1
+3864,Nelson,Amanda C.,NGO,1,1
+3865,Junod,Ed.,NGO,2,1
+3866,Etzensperger,Clara,ETU,1,1
+3867,MacPhail,Angus,ETU,2,2
+3868,Hastings,C. H.,CULTURE,2,1
+3869,Koht,Halvdan,COMNAT,2,3
+3870,Putnam,Herbert,CULTURE,2,1
+3871,House,R. B.,NGO,2,1
+3872,Mistral,Gabriela,BIBLIO,1,5
+3873,Monier,,IICI,2,1
+3874,Kordon,W,NGO,2,1
+3875,Aiginetes,D.,GOV,2,1
+3876,Benavides Macea,Atilio C.,UNI,2,1
+3878,Thompson,M. S.,EDUC,3,1
+3879,Williams,John Fisher,NGO,2,2
+3880,Kawerau,Siegfried,NGO,2,1
+3882,Marzescu,,GOV,2,1
+3883,Bremond,E.,IICI,2,3
+3884,Tetrel,,GOV,2,1
+3885,Buchanan,George,GOV,2,1
+3886,Carriere,H.,GOV,2,1
+3887,Chagas,Carlos,UNI,2,1
+3888,Cummings,H. S.,GOV,2,1
+3889,Granville,A.,NGO,2,1
+3890,Hamilton,Alice,UNI,1,1
+3891,Jitta,N. M. Josephus,GOV,2,1
+3892,Jorge,Ricardo,GOV,2,1
+3893,Lutrario,A.C.,NGO,2,1
+3894,Madsen,Th.,SANTE,2,1
+3895,Mimbela,P.,NGO,2,1
+3896,Nocht,B.,UNI,2,1
+3897,Ottelenghi,Donato,UNI,2,1
+3898,Pittaluga,Gustavo,NGO,2,1
+3899,Raynaud,L.,GOV,2,1
+3900,Tsurumi,M.,DELSDN,2,1
+3901,Hammarskjeld,Knut Hjalmar Leonard,COMNAT,2,3
+3902,Neuwirth,Karl,NGO,2,1
+3903,Nola,di,FINECO,2,1
+3904,Jacobson,,NGO,2,3
+3905,Roch,,NGO,2,1
+3906,Maus,Isidore,GOV,2,2
+3907,Asch van Wick,Van,DISTRI,2,2
+3908,Sohlman,R. R.,NGO,2,2
+3909,Coubertin,Pierre de,NGO,2,2
+3911,Bustamante,Antonio Sanchez de,COMNAT,2,3
+3912,Thompson,Norma S.,NGO,1,1
+3913,Vetch,G. A.,IICI,2,3
+3914,Ritter,Phil.,EDUC,2,1
+3915,Fairfax-Lucy,Henry,NGO,2,1
+3916,Chappedelaine,Louis de,GOV,2,1
+3917,Hubert,Lucien,GOV,2,1
+3918,Malvy,,GOV,2,1
+3919,Huet,Emile,NGO,2,1
+3920,Quesada,Armando,DIPLO,2,1
+3921,Valdes-Mendeville,,DELSDN,2,1
+3922,Cambridge,,IICI,2,1
+3923,Cahen,Gaston,UNI,2,1
+3924,Yuan,T. L.,CULTURE,3,1
+3925,Puffer Morgan,Laura,NGO,1,1
+3926,Barrows,Albert L.,NGO,2,1
+3927,Linfield,Harry,NGO,2,1
+3929,Lingelbach,William,NGO,2,1
+3930,Kihnik,,CULTURE,2,1
+3931,Dubois,Leopold,FINECO,2,1
+3932,Sangro y Ros de Olano,Pedro,NGO,2,1
+3933,Scialoja,,SECRG,2,2
+3935,Brown,Edward,NGO,2,1
+3936,Larmeroux,Jean,NGO,2,1
+3937,Bullard,Arthur,NGO,2,2
+3938,Foster,George,NGO,2,1
+3939,Steinig,Leon,ETU,2,3
+3940,Rivero,Antonio C.,GOV,2,1
+3941,Ambrosini,Antonio,UNI,2,1
+3942,Giannini,Amedeo,COMNAT,2,11
+3944,Berg,H. C.,SOC,2,1
+3945,Dupuy,,EDUC,2,1
+3946,Waltz,Andre,NGO,2,2
+3947,Pasquier,A. du,ETU,2,1
+3948,Gicot,G.,NGO,2,2
+3949,Gallardo,Angel,GOV,2,2
+3950,Kowalski,,DIPLO,2,2
+3951,Claparede,Edouard,UNI,2,2
+3952,Smelten,,EDUC,2,1
+3953,Grinberg,Suzanne,NGO,1,1
+3954,Neuzil,Albin,EDUC,2,1
+3955,Vasseur,Pierre,NGO,2,1
+3956,Zumalacarregui,Jose Maria,UNI,2,1
+3957,Schmidt,Von,NGO,2,1
+3958,Allguera,Cesar,GOV,2,3
+3962,AndersenJC,Johannes C.,CULTURE,2,1
+3963,Feigenberg,D.,ETU,3,1
+3964,Pearson,Alfred J.,DIPLO,2,1
+3965,Niemira,de,FINADMIN,2,1
+3966,Vivaldi,F.,FINADMIN,2,1
+3967,Waelti,Ed.,NGO,2,2
+3968,Dubuisson,Maurice,NGO,2,1
+3969,Sircar,Nil Ratan,UNI,2,1
+3970,Carton de Wiart,,NGO,1,1
+3971,Edwards,Mona R. J.,ETU,1,3
+3972,Lederrey,M. R.,NGO,2,1
+3973,Amaral,A. Ferreira Do,NGO,2,1
+3975,Dos Santos,Getulio,NGO,2,1
+3976,Hely-Hutchinson,R.,INFO,1,3
+3977,Lehmann-Russbeldt,Otto,NGO,2,1
+3978,Thivet,Horace,EDUC,2,1
+3979,Roux,J. A.,NGO,2,1
+3980,Lough,James E.,UNI,2,1
+3981,King,Charles,UNK,2,1
+3982,Ingermann Lindencrone,,COMNAT,2,3
+3983,Nechuta,Iz. A.,NGO,2,1
+3984,Gumbel,Emil Julius,NGO,2,1
+3986,Branford,Victor,NGO,2,1
+3987,Haberlin,,GOV,2,1
+3988,Kaeslin,Robert,GOV,2,1
+3989,Denicolai,L.,FINADMIN,2,2
+3990,Orestano,Francesco,EDUC,2,1
+3991,Sialoja,Vittorio,EDUC,2,1
+3992,Hamel,Van,ADMIN,2,1
+3993,Haase,,ETU,3,1
+3994,Wortelmann,,ETU,3,1
+3995,Schellberg,W.,GOV,2,4
+3996,Crue,F. de,UNI,2,1
+3997,Takagi,Yasaki,UNK,2,1
+3998,Bordenave,Enrique,GOV,2,2
+3999,Moeller,,NGO,2,1
+4001,Fortis,Jean-Jacques,NGO,2,1
+4002,Gallavresi,Giuseppe,JEUNE,2,10
+4003,Butts,M.,EDUC,1,4
+4004,Lehmann,Reinhold,EDUC,2,1
+4005,Willoughby,Ray,EDUC,2,1
+4006,Baralt,Luis A.,DIPLO,2,4
+4007,Ripken,G.,NGO,3,1
+4008,Wilhelm Sauer,,NGO,2,1
+4009,Graf,Georg Engelbert,NGO,2,1
+4010,Ward,R. P.,NGO,2,1
+4011,Starbuck,Edwin D.,EDUC,2,1
+4012,Leitmas,,GOV,2,1
+4013,Altmann,W.,CULTURE,2,1
+4014,Bartlett,A.C.,CULTURE,1,2
+4015,Furukaki,,COMNAT,2,1
+4016,Sato,Junzo,COMNAT,2,2
+4017,Dohna,Freda Marie Grefin zu,NGO,1,1
+4018,Efno-Koskinen,A.,GOV,2,1
+4019,Toledano,Andre,NGO,2,1
+4020,Muyser,Raymond de,NGO,2,1
+4021,Kreuz,Rob.,NGO,2,3
+4022,Cramer,,NGO,3,1
+4023,Lupu,,NGO,3,1
+4025,Drouhet,Charles,UNI,2,1
+4026,Mantoux,Paul,UNI,2,2
+4028,Pereire,Alfred,UNK,2,1
+4029,Setala,Eemil Nestor,GOV,2,1
+4030,Lapie,,UNI,2,1
+4031,Gould,Gladis H.,NGO,1,1
+4032,Giele,Jacques,GOV,2,2
+4034,Charrere,,INFO,2,4
+4035,Hauser,F.,EDUC,2,1
+4036,Imhof,Gottl.,EDUC,2,3
+4037,Weber,W.,EDUC,2,1
+4038,Nestaval,J.,ETU,2,2
+4039,Gavrilovitch,Bogdan,JEUNE,2,4
+4040,Kiritzesco,Const.,JEUNE,2,6
+4041,Maly,Jar.,NGO,2,1
+4042,Walshe,J. P.,DELSDN,2,1
+4043,Breslauer,Martin,NGO,2,1
+4044,Robiquet,Jean,CULTURE,2,1
+4045,Brandejs,Stan.,GOV,2,1
+4046,Bugge,Carl,NGO,2,1
+4047,Krahmann,Max,UNI,2,1
+4048,Launay,L. de,UNI,2,1
+4049,Neculcea,Eugene,FINECO,2,1
+4050,Alford,Violet,NGO,1,1
+4051,Bucsan,,GOV,2,2
+4052,Lindt,,GOV,2,2
+4053,Mandach,de,CULTURE,2,1
+4054,Martwalder,,GOV,2,2
+4055,Mitilinieu,,GOV,2,2
+4056,Vulpesco,,NGO,2,1
+4057,Hanauer,Julius,NGO,2,1
+4058,Valvanne,Hugo,GOV,2,1
+4059,Winkler,J.,NGO,2,1
+4060,Appleget ,Thomas B. ,NGO,2,1
+4061,Rockefeller Junior,John,NGO,2,1
+4062,Wilkie,J.,GOV,2,1
+4063,Chang,Shirowy,NGO,2,1
+4065,Schulthess,Paul,NGO,2,2
+4066,Uhler,Jean,GOV,2,1
+4067,Pardo Correa,Arturo,NGO,2,3
+4068,Pardo Correa,Carmela Cruchada,NGO,1,1
+4069,Unsain,Alejandro,NGO,2,1
+4070,Gallavan,Constance L.,NGO,1,1
+4071,Griessen,Charles,NGO,2,1
+4072,Sergio de Souza,Antonio,COMNAT,2,1
+4073,Cody,Henry John,UNK,2,1
+4074,Roy,Philippe,DELIICI,2,1
+4075,Kuhn,,NGO,2,1
+4076,Werneke,H.,UNI,2,1
+4077,Horta,Victor,NGO,2,1
+4078,Lambotte,P.,GOV,2,2
+4079,Strauss Collin,Joe,NGO,2,1
+4080,Colasanti,Arduino,GOV,2,5
+4081,Fedele,Pietro,GOV,2,2
+4082,Giffrey,,CULTURE,2,1
+4083,Helmberger,,NGO,2,2
+4084,Kifsling,,DIPLO,2,1
+4085,Rossi,Attilio,GOV,2,11
+4086,Verne,Henri,CULTURE,2,10
+4089,Jezequel,J.,NGO,2,1
+4090,Comfort,Benj. F.,EDUC,2,1
+4091,Inagaki,Morikatsu,NGO,2,1
+4092,Wright,J. F.,NGO,2,1
+4093,Schlossmann,,NGO,3,1
+4094,Milliar,Robert,NGO,2,1
+4096,Calkins,Gary N.,UNI,2,6
+4097,Spulber,,UNI,2,1
+4098,Gaffiot,Robert,NGO,2,1
+4099,McAlpine,D.,NGO,3,1
+4100,Cappe,Victorie,NGO,1,1
+4101,Ehrler,A.,EDUC,2,1
+4102,Reinke-Block,Fr.,UNI,2,1
+4103,Fleck,A.,UNI,2,4
+4104,Madariaga,S. de,NGO,2,3
+4105,Mortara,G.,NGO,2,2
+4106,Glotz,G.,IICI,2,1
+4107,Poland,F.,IICI,2,1
+4108,Sanctis,,UNI,2,1
+4109,Ussani,,IICI,2,1
+4110,Vogel,F.,IICI,2,1
+4111,Apstein,,UNI,2,2
+4112,Bauer,E.,UNI,3,1
+4113,Hutchinson,B.,EDUC,2,2
+4114,Kooiman,H. N.,NGO,3,2
+4115,Mesnil,,UNI,2,2
+4116,Morrin,E. B.,UNI,2,1
+4117,Carter,A. C. R.,NGO,3,1
+4118,Ganz,Paul,IICI,2,2
+4119,Heiberg,J. L.,UNI,3,1
+4120,Milatchitch,Douchan,IICI,2,2
+4121,Muszkowski,,IICI,2,2
+4122,Rivet,Paul,NGO,2,1
+4123,Cornelius,Charles,CULTURE,2,1
+4124,Lefrancq,Jacques,CULTURE,2,1
+4125,Fraenger,Wilhelm,NGO,2,1
+4126,Stroe,,NGO,3,1
+4127,Merriam,Charles E.,NGO,2,1
+4128,Gomez-Carillo,Don Enrique,DELIICI,2,2
+4129,Hevesy,de,DELSDN,2,1
+4130,Pelzer,,CULTURE,3,1
+4131,Roehrich,,NGO,2,1
+4132,Coleman,Laurence Vail,CULTURE,2,2
+4133,Strahm,M. H.,EDUC,2,1
+4134,Gusti,,UNI,2,1
+4135,Richter,Claire,EDUC,1,1
+4136,Blondeel,Frederic,INFO,2,5
+4138,Carter,L. E.,NGO,1,1
+4139,Chybinski,Adolph,UNI,2,1
+4140,Kolessa,Alexandre,UNI,2,3
+4141,Branger,Erhard,NGO,2,1
+4142,Kollarits,J. ,NGO,2,3
+4143,Roger,,UNI,2,1
+4144,Bechtold-Bechi,G.,NGO,2,1
+4145,Appell,Pierre,GOV,2,1
+4146,Mocatta,F. A.,NGO,1,1
+4147,Luible,Martin,NGO,2,1
+4148,Miller ,Francis P.,ETU,2,4
+4150,Weissmann,,ETU,3,1
+4151,Vermeylen,,DELIICI,2,1
+4152,Capart,Jean,CULTURE,2,5
+4153,Fitz-James Stuart,Jacobo,GOV,2,3
+4154,Friedlander,Max,CULTURE,2,1
+4155,Guiffrey,,CULTURE,2,3
+4156,Sotomayor,Fernando de,CULTURE,2,4
+4157,Mounier,H.,NGO,3,2
+4158,Arnold,D.,UNI,2,2
+4159,Lesourds,E.,EDUC,2,1
+4160,Muriset,Annie,NGO,1,1
+4162,Samurcas,Tzigara,CULTURE,2,1
+4163,Pickford,Alfred D.,UNK,2,1
+4164,Trachsel,Camille,NGO,1,1
+4165,Fano,Giolio,GOV,2,2
+4166,Barnes,Roswell P.,EDUC,2,1
+4167,Hautecoeur,Louis,CULTURE,2,4
+4168,Sanchez Canton,,CULTURE,3,1
+4169,Acuna,Jose de,GOV,2,1
+4170,Ainsworth,A. R.,GOV,2,1
+4171,Aoki,,DELSDN,3,1
+4172,Aramayo,Felix Avelino,DIPLO,2,1
+4173,Berliner,Cora,GOV,1,1
+4174,Boillot,F.,UNI,2,1
+4175,Bonamy,Auguste,DIPLO,2,1
+4176,Breisky,,GOV,2,1
+4177,Bulhoes Carvalho,Jose Luis Sayao de,GOV,2,1
+4178,Caballero,Ramon V.,DELIICI,2,1
+4179,Carapanos,A.,DELIICI,2,2
+4180,Castrilli,Vincenzo,UNI,2,1
+4181,Coats,R. H.,NGO,2,1
+4182,Colson,,UNI,2,1
+4183,Delatour,,UNI,2,1
+4184,Dempsey,Vaughan B.,DELIICI,2,3
+4185,Dunant,,DELIICI,2,3
+4187,Ehrensverd,,DELIICI,2,2
+4188,Fonseca,Pedro S.,GOV,2,1
+4189,Fortoul,Gil,DELIICI,2,2
+4190,Keil,,NGO,1,1
+4191,Kovaca,Aloyse,GOV,2,1
+4192,Leclerc,,DELIICI,2,3
+4193,Mallet,Bernard,CULTURE,2,1
+4194,March,Lucien,NGO,2,1
+4195,Medina,Tomas Francisco,DELIICI,2,1
+4196,Methorst,H.W.,NGO,2,1
+4197,Mizuno,R.,GOV,3,1
+4198,Ney,,GOV,2,1
+4199,Oumansky,,GOV,3,1
+4200,Parn,,NGO,3,1
+4201,Popoff,Kiril G.,GOV,2,1
+4202,Portela,Ramire Hernandes,DELIICI,2,1
+4203,Pribram,,OIT,2,1
+4204,Pullerits,A.,GOV,2,1
+4205,Sandler,,GOV,2,1
+4206,Sederhjelm,Jarl Werner,DELIICI,2,1
+4207,Stoiloff,Nicholas D.,DELIICI,2,3
+4208,Tigert,J. J.,GOV,2,1
+4209,Wickens,H.,GOV,2,1
+4210,Willcox,W. F.,UNI,2,1
+4211,Zahn,Friedrich,GOV,2,1
+4212,Zaldumbide,Gonzalo,DELIICI,2,4
+4213,Giacomo,Giacomo di,UNI,2,1
+4214,Misme,,NGO,1,1
+4215,Stanley McCormick,Katharine,NGO,1,1
+4216,Trifunovitch,,GOV,2,1
+4217,Proebst,Herman,ETU,2,1
+4218,Vogel,Georg,ETU,2,1
+4219,Aubert,Louis,NGO,2,1
+4220,Bausback,,NGO,2,1
+4221,Beaufait James,Marion,EDUC,1,1
+4222,Bersaucourt,de,NGO,2,1
+4223,Courriere,Paul H.,NGO,2,1
+4224,Curlis,Hans,UNI,2,1
+4225,Depasse,,NGO,3,1
+4226,Falticeni,de,UNK,3,1
+4227,Gottschalk,,NGO,3,1
+4228,Hamburger,D.,NGO,3,1
+4229,Launay,de,NGO,2,1
+4230,Mandelstamm,Valentin,NGO,2,1
+4231,Paulet,Pedro E.,OIT,2,1
+4232,Pemmers,Tony,DELIICI,2,2
+4233,Plugge,,NGO,3,1
+4234,Preiss,Hans,NGO,2,1
+4235,Radley,C. A.,NGO,3,1
+4236,ReesA,Aubrey,NGO,2,1
+4237,Reynaud,Jean,NGO,2,1
+4238,Roux-Parassac,,NGO,2,1
+4239,Sand,Rene,EDUC,2,1
+4240,Scie-Ton-Fa,,DIPLO,3,2
+4241,Vonlitch,N.,COMNAT,2,1
+4242,Ullein,Antoine J.,DELIICI,2,2
+4243,Maribona,Armando,UNK,2,1
+4245,Furth,Julius,NGO,2,1
+4247,Ambrosius,Heinrich,UNK,2,1
+4249,Beyazov,,UNI,2,1
+4250,Mann,H. M.,EDUC,1,1
+4251,Maillard,Elisa,OIM,1,2
+4252,Kuo,P. W.,UNI,2,1
+4253,Hofmeister,Friedrich,NGO,2,1
+4254,Janner,,GOV,2,1
+4255,Irish,W.E.,NGO,3,1
+4257,Hanalamd,,DELSDN,2,1
+4258,Grintzesco,Alice,FEM,1,1
+4259,Graf,Hans,NGO,2,1
+4260,Nonu,Jean,NGO,2,1
+4261,Netchasek,S.,IICI,2,2
+4262,Pellet,A.,IICI,1,3
+4263,Antonetti,R.,GOV,2,1
+4264,Byatt,H. A.,GOV,2,1
+4265,Coelho de Sousa,,GOV,2,1
+4266,Craigie,R. L.,GOV,2,1
+4267,Terrasson,,GOV,2,1
+4268,Thomas,T. S. W.,GOV,2,1
+4269,Habbel,Franz Ludwig,NGO,2,1
+4270,Aull,Maria,NGO,2,1
+4271,Berger,Hermann,NGO,2,1
+4273,Albert,Georges,NGO,2,1
+4274,Feige,Max,NGO,2,1
+4276,Hooper,Sydney E.,UNI,3,1
+4277,Angoulvent,,CULTURE,3,1
+4278,Boix,Felix,NGO,2,1
+4279,Carreno y Espana,Jose,CULTURE,2,1
+4280,Deonna,,CULTURE,2,2
+4281,Fosca,Francois,CULTURE,2,1
+4282,Ghisman,C. R.,CULTURE,3,1
+4283,Gilbart,Olympe,GOV,2,1
+4284,Hallet,Max,NGO,2,1
+4285,Manzoni,Alessandro,DIPLO,2,2
+4286,Puyvelde,Van,CULTURE,2,2
+4287,Rosenthal,Leon,CULTURE,2,1
+4288,Sabbe,,CULTURE,2,1
+4289,Vauthier,Maurice,GOV,2,1
+4290,Werner,,CULTURE,2,1
+4291,Zuylan,Ernest van,NGO,2,1
+4292,Alexief,W.,COMNAT,2,2
+4294,Birziska,M.,COMNAT,2,1
+4295,Dufour,Pierre Th.,NGO,2,1
+4296,Tentelis,Auguste,COMNAT,2,1
+4297,Pauli,,CULTURE,3,1
+4298,Chenevard-deMorsier,V.,FEM,1,1
+4299,Romniciano,Helene,FEM,1,1
+4300,Pallier,,GOV,3,1
+4301,Flitner,,UNI,3,1
+4302,Cremieux,A.,NGO,3,1
+4303,Marez,des,UNI,2,1
+4304,Howard,Frances R.,NGO,2,1
+4305,Patten,Nathan van,CULTURE,2,1
+4306,Balny d'Avricourt,,DIPLO,2,1
+4307,Mauran,,GOV,2,1
+4308,Aall,Anathon,UNI,2,1
+4309,Hazard,Julia R.,NGO,1,1
+4310,Rosset,,JEUNE,2,4
+4311,Patriciu,Titus,GOV,2,1
+4312,Pop,Marie M.,FEM,1,1
+4313,Viola,Giacinto,NGO,2,1
+4314,Bates,Frederick,NGO,2,1
+4315,Briscoe,E.,NGO,2,1
+4316,Kern,Alfred,NGO,2,1
+4317,Vidoudez,,NGO,2,1
+4318,Bourdel,J.,CULTURE,3,1
+4319,Ciarlantini,Franco,CULTURE,2,2
+4320,Elbel,Paul,CULTURE,2,1
+4321,Garcia Calderon,Ventura,NGO,2,1
+4322,Hauff,Bruno,CULTURE,2,1
+4323,Kilpe,K.,NGO,3,1
+4324,Kippenberg,Anton,ARTS,2,2
+4325,Krawczynski,Aleksander,NGO,2,2
+4326,Languereau,,NGO,2,1
+4327,Marrubini,,NGO,3,1
+4328,Melcher,Frederick,NGO,2,1
+4329,Monnet,,NGO,2,1
+4330,Ort-Geuthner,,NGO,3,1
+4331,Payot,Samuel,NGO,2,1
+4332,Perret,A. L.,NGO,2,1
+4333,Pope,A. E.,NGO,3,1
+4334,Rogoz,,NGO,3,1
+4335,Schoeller,,NGO,3,1
+4336,Skrawezynstri,,NGO,3,1
+4337,Thuau,U. J.,CULTURE,3,1
+4338,Tjeenk Willink,D. H.,NGO,3,1
+4339,Wilmotte,,NGO,2,1
+4340,Balen,W. J. Van,GOV,2,1
+4341,Mollenhauer,,NGO,3,1
+4342,Baillaud,Emile,UNI,2,1
+4343,Henriot,Gabriel,CULTURE,2,2
+4344,Mensdorff-Pouilly-Dietrichstein,Albert,DELIICI,2,5
+4345,Pani,Albert I.,DIPLO,2,1
+4347,Reyes,Alfonso,DIPLO,2,1
+4348,Arguedas,Alcides,DELIICI,2,1
+4349,Costa du Rels,,DIPLO,2,1
+4350,Audibert,Pierre,NGO,2,1
+4351,Baker,George P.,UNI,2,1
+4352,Besrodny,P.,NGO,3,1
+4353,Catchpole,G. P.,NGO,2,1
+4354,Cremieux,,NGO,2,1
+4355,Loehr,August von,CULTURE,2,1
+4356,Richard,C.,NGO,2,1
+4357,Noulens,,DIPLO,2,1
+4359,Lloyd Jones,Chester,DIPLO,2,1
+4360,Robertson,,IICI,2,1
+4361,Carleson,,NGO,3,1
+4362,Dressler,Willy O.,NGO,2,1
+4363,Natesan,G.,NGO,2,1
+4364,Thorkildssen,Carlota,IICI,1,2
+4365,Bodenstein,,UNI,2,1
+4366,Brondal,,DELIICI,2,1
+4367,Moran,J. V.,COMNAT,2,1
+4368,Tysser,A.,NGO,3,1
+4369,Baur,Harry,NGO,2,1
+4370,Leredu,,GOV,2,1
+4371,Severin,Gaston,NGO,2,1
+4372,Arzu,Jose,DELIICI,2,1
+4373,Castro,Rafael V.,DELIICI,2,1
+4374,Magyary,Zoltan de,DELIICI,2,1
+4375,Croix,de la,NGO,2,1
+4376,Kent,Henri W.,CULTURE,2,1
+4378,Schairer,Reinhold,ETU,2,2
+4379,Monod,Julien P.,NGO,2,1
+4380,Frontin,de,UNI,2,1
+4381,Murray,Mary,NGO,1,1
+4382,Bick,,CULTURE,2,1
+4383,Boutillier du Retail,,CULTURE,2,1
+4384,Kuntz,,CULTURE,2,1
+4385,Marx,,GOV,2,1
+4386,Mathieu,,UNI,2,1
+4387,Salvagnigni,,CULTURE,2,2
+4388,Bar,de,GOV,2,1
+4389,Bastin,M.,DIPLO,2,1
+4390,Bather,F. A.,CULTURE,3,1
+4391,Baur,Erwin,UNI,2,1
+4392,Chalmers Mitchell,,NGO,3,1
+4393,Fedde,,UNI,2,1
+4394,Myres,J. L.,UNI,2,1
+4395,Soulet,,GOV,2,1
+4396,Thomsen,A.,NGO,3,1
+4397,Kamenev,,NGO,1,1
+4398,Redslob,,GOV,2,1
+4399,Hennessy,Jean,DIPLO,2,1
+4400,Morance,Albert,CULTURE,2,1
+4401,Morano di Custoza,Pignatti,DIPLO,2,1
+4402,Torre Hermosa,de la,DIPLO,2,1
+4403,Williamson,,PUBLI,2,1
+4404,Duhamel,Georges,NGO,2,1
+4405,Roquelaure,Jean,ETU,2,1
+4406,Belaunde,,IICI,2,1
+4407,Boyer,Paul,EDUC,2,1
+4408,Elisseef,Serge,DIPLO,2,1
+4409,Marquis,A. N.,NGO,2,1
+4410,Sammons,Wheeler,NGO,2,1
+4411,Week,E.F.,UNK,2,1
+4412,Wilberforce,Robert,IICI,2,1
+4413,Ringrose,Hyacinthe,NGO,2,1
+4414,Fontaine,Arthur,OIT,2,1
+4415,Morellet,Jean,NGO,2,1
+4416,Josyer,G. R.,NGO,2,1
+4417,Mello e Simas,,NGO,2,1
+4418,Ladeuze,P.,UNI,2,1
+4419,Stix,Alfred,CULTURE,2,1
+4420,Warner,John,CULTURE,2,1
+4421,Bodelsen,C.A.,UNI,2,1
+4422,Broendal,Viggo,UNI,2,1
+4423,Hingre,R.,IICI,2,1
+4424,Soper,Claire,EDUC,1,1
+4425,Anderssen,Sven,NGO,2,1
+4426,Lieberath,Ebbe,NGO,2,1
+4427,Choisy,Frank,EDUC,2,1
+4428,Buretia,Elisa,NGO,1,1
+4429,Frangulis,A.,NGO,2,1
+4430,Linehan,,EDUC,2,1
+4431,Bus De Warnaffe,Ch. du,NGO,2,1
+4432,Prinzhorn,Fritz,CULTURE,2,1
+4434,Kilpper,,NGO,2,1
+4435,Squire,A. E.,NGO,2,1
+4436,Erich,Rafael,GOV,2,1
+4437,Grandi,,GOV,2,2
+4438,Braunhausen,,COMNAT,2,1
+4439,Bronty,,CULTURE,3,1
+4440,Falkenberg,Heinrich,NGO,2,1
+4441,Foti,,NGO,2,1
+4442,Guyot,,UNI,2,1
+4443,Munthe,W.,CULTURE,2,1
+4444,Searight,G. E.,LIB,1,1
+4445,Wuorimaa,Aarne,DIPLO,2,1
+4446,Arribert,,EDUC,2,1
+4447,Barbillon,,UNI,2,1
+4448,Folkierski,W.,IICI,2,2
+4449,Herzberg,W.,GOV,2,1
+4450,Jenkinson,Hilary,GOV,2,1
+4451,Phipps,Eric,DIPLO,2,1
+4452,Commert,,UNK,2,1
+4453,Buschbeck,E.,IICI,3,1
+4454,Dianu,N.,GOV,2,2
+4455,Segesser Brunegg,de,DIPLO,2,1
+4456,Pankhurst,S.,NGO,1,1
+4457,Avril de Sainte-Croix,G.,FEM,1,1
+4458,Orazio,,NGO,3,1
+4459,Wiesner,Jaromir,NGO,2,1
+4460,Maltini,Roberto,NGO,2,1
+4461,Roberts,Walter,GOV,2,1
+4462,Barbagelata,Hugo D.,DELIICI,2,1
+4463,Coste,E.,IICI,1,3
+4464,Fakhry Pacha,,DIPLO,2,1
+4465,Hesse,Andre,GOV,2,1
+4466,Marinkovic,,GOV,2,1
+4467,Namy Bey,Ahmed,GOV,2,1
+4468,Toledo,Alvarez de,DIPLO,2,1
+4469,Soltau,Roger,NGO,2,1
+4470,Auclair-Prevost,Marcelle,NGO,1,1
+4471,Cassin,Rene,NGO,2,1
+4472,Heymann,Ernst,NGO,2,1
+4473,Szegedi-Kohner,Irma,NGO,1,1
+4474,George,Th.,NGO,1,1
+4475,Marijon,,GOV,2,1
+4476,Wolff,,IICI,2,1
+4477,Halden,Charles ab der,EDUC,2,1
+4478,Percy,Eustace,GOV,2,1
+4479,Lyall,L.A.,NGO,2,1
+4480,Tuck,Pinkney,DIPLO,2,1
+4481,Woods,Arthur,NGO,2,1
+4482,Vibbert,,UNI,2,1
+4483,Pellati,Francesco,GOV,2,1
+4484,Schmidt-Degener,F.,CULTURE,2,1
+4485,Bache,Henry N.,NGO,2,1
+4486,Sato,S.,DELSDN,3,1
+4487,Hoesch,Von,DIPLO,2,1
+4488,Hain Jou Kia,,UNK,3,1
+4489,Mirkine-Guetzevitch,B.,UNI,2,1
+4490,Klocke,,NGO,2,1
+4491,Boeckel,Florence,NGO,1,1
+4492,Houdeil,Jane,NGO,1,1
+4493,Stephenson,H. H.,NGO,2,1
+4495,Humphrey,Gwenaeth E.,NGO,3,1
+4496,Brouckere,de,DELSDN,2,1
+4497,Dandurand,Roual,DELSDN,2,1
+4498,Good,J. F.,NGO,2,1
+4499,Watkins,Arthur Charles,GOV,2,1
+4501,Fazl-i-Hussain,Aboul,DELSDN,2,1
+4502,Mendelssohn-Bartholdy,A.,NGO,3,1
+4503,Reichel,Elfriede,NGO,1,1
+4504,Dezarrois,Andre,CULTURE,2,1
+4505,Heinrichs,,EDUC,3,1
+4506,Klebensberg,,GOV,2,2
+4507,Ray,G.,GOV,2,1
+4508,Menner,Wenzel,GOV,2,1
+4509,Scheu,Robert,NGO,2,1
+4510,Kose,D. J.,OIT,2,2
+4511,Morin,,NGO,2,1
+4512,Franco Franco,Tulio,DIPLO,2,1
+4513,Vasquez,Horacio,GOV,2,1
+4514,Niessen,,GOV,2,1
+4515,Stickers,Joe,EDUC,2,1
+4516,Cadderon,F.,UNI,2,1
+4517,Drennan,R.,UNI,3,1
+4518,Weed,Lewsi H.,NGO,2,1
+4519,Kow,Joachim,NGO,2,1
+4520,Bakker van Bosse,C.,NGO,1,1
+4521,Manus,Rosa,FEM,1,1
+4522,Nijhoff,Martinus,NGO,2,1
+4523,Sterling,Frances M.,FEM,1,1
+4524,Nolen Strong,Barbara,CULTURE,1,1
+4525,Hermes,M. C.,ETU,1,1
+4526,Fayad,Elias Bey,COMNAT,2,1
+4527,Graftiau,Firmin,NGO,2,1
+4528,Breton,le,GOV,2,1
+4529,Calasanti,,GOV,2,1
+4530,Demmler,,CULTURE,2,1
+4531,Graul,Richard,ARTS,2,2
+4532,Jillieron,Emile,CULTURE,2,1
+4533,Oikonomos,Georges,CULTURE,2,1
+4534,Poulsen,Frederik,NGO,2,1
+4535,Roussel,Jules,CULTURE,2,1
+4536,Vitry,Paul,CULTURE,2,1
+4537,Fago,Vincenzo,CULTURE,2,1
+4538,Djghika,,GOV,2,1
+4539,Aulard,A.,UNI,2,1
+4540,Kommany,,NGO,2,1
+4541,Hudson,Holland,NGO,2,1
+4542,Galsworthy,John,ARTS,2,1
+4543,Judd,C. W.,UNI,2,1
+4544,Manning,,EDUC,2,1
+4545,Mathews,Jocelyn,NGO,3,1
+4546,Holley,Horace,NGO,2,1
+4547,Cousins,James H.,NGO,2,1
+4548,Marcel,Pierre,NGO,2,1
+4549,Schneider,,NGO,3,1
+4550,Sandgren,Carl,GOV,2,1
+4551,Scheller,Richard,GOV,2,1
+4552,Lodi,Fernando,NGO,2,1
+4553,Tisseau,P.,IICI,2,1
+4554,Dupasquier,A.,ETU,1,1
+4555,Rossi,Vittorio,ARTS,2,1
+4557,Zilliacus,M. L.,NGO,2,1
+4558,Simon,Clarice Eugene,NGO,1,1
+4559,Pick,Hans,NGO,2,1
+4560,Przesmycki,Z.,NGO,2,1
+4561,Wilker,Karl,NGO,2,1
+4563,Palivec,Joseph,NGO,2,1
+4566,Tait,Fred,NGO,2,1
+4570,Gimmi,Walter,NGO,2,1
+4572,Rotten,Elisabeth,NGO,1,2
+5038,Abel,J. F.,GOV,2,1
+5039,Acevedo,Carlos Alberto,UNK,2,1
+5040,Adey,J.,GOV,2,1
+5041,Alcock,Robert,NGO,2,1
+5042,Alfieri,Dino,UNI,2,1
+5043,Aloisi,Ugo,NGO,2,1
+5044,Andrews,H.T.,DELSDN,2,1
+5045,Anker,Peter,UNK,2,1
+5046,Antonesco,G. G.,UNI,2,1
+5047,Anuchin,V.,UNI,2,1
+5048,Asbroeck,Jean Van,UNI,2,1
+5049,Azcarate,P. De,SECRG,2,1
+5050,Baker,Edith L.,NGO,1,1
+5051,Ball,Augustus,GOV,2,1
+5052,Baumann,Johannes,GOV,2,1
+5053,Baumont,,LONO,3,1
+5054,Becker,Carl Heinrich,UNI,2,1
+5055,Beck-Fres,H.,GOV,2,1
+5056,Beeby,C. E.,EDUC,2,1
+5057,Beghin,P.,NGO,2,1
+5058,Belime,J.,IICI,2,1
+5059,Bell,Oliver,COMNAT,2,1
+5060,Berg,Hjalmar,CULTURE,2,1
+5061,Berndt,E. R.,NGO,2,1
+5062,Bertholin,,INFO,2,1
+5063,Bertini,,NGO,1,1
+5064,Besta,Pozzy de,UNI,2,1
+5065,Bettelini,Arnoldo,EDUC,2,1
+5066,Bignens,Ernest,EDUC,2,1
+5067,Blanck y Menocal,Guillermo de,DELSDN,2,1
+5068,Bolscey,Richard,NGO,2,1
+5069,Borberg,William,DELSDN,2,1
+5070,Borzechi,Jan,NGO,2,1
+5071,Bosshardt,,NGO,2,1
+5072,Bovet,G.,GOV,2,1
+5073,Breycha-Vauthier,A.C.,LIB,2,1
+5074,Bruce,S.M,GOV,2,1
+5075,Buccoleri,,UNK,3,1
+5076,Buero,J. A. ,JUR,2,1
+5077,Cain,Julien,CULTURE,2,1
+5078,Calmettes,J.,EDUC,2,1
+5079,Campos,Agostinho de,NGO,2,1
+5080,Carlgren,Wilhelm,NGO,2,1
+5081,Carter,Edward Clark,NGO,2,1
+5082,Casey,,GOV,2,1
+5083,Castrilli,,IICI,2,1
+5084,Chalmers Wright,F.,IICI,2,1
+5085,Charlety,,UNI,2,1
+5086,Chevalier,Juan B.,GOV,2,1
+5087,Chichkov,G.,COMNAT,2,1
+5088,Clampett,G.J.T.,UNI,2,1
+5089,Clarke,Ashley,DELSDN,1,1
+5090,Colombain,,OIT,2,1
+5091,Condliffe,J. B.,UNI,2,1
+5092,Costa,Celestino Da,UNI,2,1
+5093,Courtault,,LONO,1,1
+5094,Couturier,,NGO,2,1
+5095,Cremins,Francis T.,DELSDN,2,1
+5096,Crutzesco,G.,DELSDN,2,1
+5097,Cuervo Marquez,E.,DELSDN,2,1
+5098,Cunningham,K. S.,EDUC,2,1
+5099,Damiani,Enrico,CULTURE,2,1
+5100,Datta,Rena,ETU,1,1
+5101,Deneke,G.,PUBLI,1,1
+5102,Dennis,,INFO,2,1
+5103,Deznai,Victor,NGO,2,1
+5104,Dingman,Mary A.,FEM,1,1
+5105,Dissel,Van,UNK,3,1
+5106,Dowd,Agnes M.,EDUC,1,1
+5107,Duesberg,,UNI,2,1
+5108,Dumeril,Edmond,NGO,2,1
+5109,Duprat,G. L.,UNI,2,1
+5110,Eisenmann,Louis,UNI,2,1
+5111,Elian,Edgar. N.,NGO,2,1
+5112,Establier,A.,IICI,2,1
+5113,Estournelles de Constant,D',NGO,2,1
+5114,Evans,Frederick,EDUC,2,1
+5115,Farner,Alfred,IIUDP,2,1
+5116,Ferlot,Paul,GOV,2,1
+5117,Field,D. L.,NGO,2,1
+5118,Flayol,E.,EDUC,1,1
+5119,Fleiner,Fritz,UNI,2,1
+5120,Fodor,Markus,UNI,2,1
+5121,Forssell,Gesta,UNI,2,1
+5122,Foundoukidis,,OIM,2,1
+5123,Francisci,P. de,IIUDP,2,1
+5124,Francois,J. P. A.,POLITIC,2,1
+5125,Fuller,C.,CULTURE,2,1
+5126,Funck-Brentano,,CULTURE,2,1
+5127,Furnemont,M.,CULTURE,2,1
+5128,Gajardo,Enrique J.,DELSDN,2,1
+5129,Gallarati,Giovanni,INFO,2,1
+5130,Gallone,G.,OIT,2,1
+5131,Garbasso,,UNI,2,1
+5132,George,Theodora,EDUC,1,1
+5133,Gerig,,UNK,2,1
+5134,Geruti,A.,DELSDN,2,1
+5135,Gesteranus,Maas,IICI,2,1
+5136,Gethman,W. W.,NGO,2,1
+5137,Geyer,A. L.,NGO,2,1
+5138,Gey Van Pittius,E.F.W.,UNI,2,1
+5139,Ghait,E. Le,GOV,2,1
+5140,Ghose,Sudhin N.,INFO,2,1
+5141,Giraud,,UNK,2,1
+5142,Goethe,C. M.,NGO,2,1
+5143,Gonseth,F.,UNI,2,1
+5144,Gordon Bagnall,A.,NGO,2,1
+5145,Gossart,A.,EDUC,2,1
+5146,Gottland,,GOV,2,1
+5147,Granet,,UNI,1,1
+5148,Green,George H.,UNI,2,1
+5149,Gutierrez Allende,Jose R.,GOV,2,1
+5150,Hegglef,G.,DELSDN,2,1
+5151,Haller,F. de,UNK,2,1
+5152,Hanna,Margaret M.,DIPLO,1,1
+5153,Hapgood,,DISTRI,2,1
+5154,Harnack,V.,COMNAT,2,1
+5155,Harrison,Leland B.,GOV,2,1
+5156,Harson,A.,GOV,2,1
+5157,Harte,Walter J.,NGO,2,1
+5158,Heath,Frank,COMNAT,2,1
+5159,Henzel,de,IICI,2,1
+5160,Herry,Leopold,NGO,2,1
+5161,Hickel ,,IICI,2,1
+5162,Hoffmann,G.,NGO,2,1
+5163,Holbrook,Nina,EDUC,1,1
+5164,Holme,Erica,FEM,1,1
+5165,Howard,A. J.,EDUC,2,1
+5166,Hugues,W. M.,GOV,2,1
+5167,Hunter,Audrey,UNK,1,1
+5168,Jakiel,A[rvin?],CULTURE,2,1
+5169,Jaronczyk,Alfred,NGO,2,1
+5170,Jeanne,Rene,NGO,2,1
+5171,Jonescu,G.,SECRS,2,1
+5172,Juergensen,Kaalund,GOV,2,1
+5173,Kaye,Lilian,LONO,1,1
+5174,Kerekjarto,B. de,COMNAT,2,1
+5175,Khojan,R. (ou K.),GOV,2,1
+5176,Khoph,,UNK,2,1
+5177,Kinkel,Walter,NGO,2,1
+5178,Kleffens,Van,GOV,2,1
+5179,Krieg,Emile,NGO,2,1
+5180,Kullmann,Gustave G.,SECRS,2,1
+5181,Kuthy-Terey,Alexandre,COMNAT,2,1
+5182,Labbe,E.,EDUC,2,1
+5183,Lachenal,Paul,GOV,2,1
+5184,Lajti,Istvan,IICI,2,1
+5185,Laubach,Frank C.,NGO,2,1
+5186,Lebrun,Albert,GOV,2,1
+5187,Leger,Alexis,DIPLO,2,1
+5188,Lester,Sean,SECRG,2,1
+5189,Lief,Alfred,NGO,2,1
+5190,Londos-Dimitracopoulos,Frosyni/Euphrossyni,FEM,1,1
+5191,Lund,R. T.,NGO,2,1
+5192,Lurquin,C.,UNI,2,1
+5193,Mack,Lucille E.,UNI,1,1
+5194,Magnes,J.-L. ,UNI,2,1
+5195,Malherbe,K. C.,EDUC,2,1
+5196,Mamopoulos,P.,NGO,2,1
+5197,Mander,F.,EDUC,2,1
+5198,Marquina,Eduardo,NGO,2,1
+5199,Martinie,I.,GOV,2,1
+5200,Maseng,E.,DELSDN,2,1
+5201,Massigli,,DELSDN,2,1
+5202,Mayoux,J. J.,UNK,2,1
+5203,Mencia,Armando,UNK,2,1
+5204,Mentha,,NGO,2,1
+5205,Michel,L.,NGO,2,1
+5206,Mohr,Hans,IICI,2,1
+5207,Muschietti,C.,NGO,2,1
+5208,Nabholz,Hans,NGO,2,1
+5209,Nauck,G.,UNK,2,1
+5210,Nyns,Marcel,GOV,2,1
+5211,Oliveira,Alberto d',DIPLO,2,1
+5212,Orloff,,NGO,2,1
+5213,Ottewill,W. T.,GOV,2,1
+5214,Ozorio de Almeida,Miguel,COMNAT,2,1
+5215,Paine,Mabel Cleverly,NGO,1,1
+5216,Pardo,Carlos,DELSDN,2,1
+5217,Parfitt,Sidney L.,NGO,2,1
+5218,Parker,G. R.,EDUC,2,1
+5219,Parkes,James,NGO,2,1
+5220,Parsloe,Guy,NGO,2,1
+5221,Pasquier,Leon,EDUC,2,1
+5222,Pastuhov,,UNK,2,1
+5223,Pavel,J.,COMNAT,2,1
+5224,Pedroso,Manuel,DELSDN,2,1
+5225,Perez,Cesar A.,GOV,2,1
+5226,Perreux,,NGO,1,1
+5227,Pijoan,Joseph,UNI,2,1
+5228,Pijper,N. M. M.,GOV,1,1
+5229,Pistolese,S.,IICI,2,1
+5230,Poberezki,P. (?) M. (?),NGO,2,1
+5231,Podesta-Costa,L. A.,UNK,2,1
+5232,Poll,,UNI,2,1
+5233,Polychronidis,,DELSDN,2,1
+5234,Pommerenke,,NGO,2,1
+5235,Pool,D. C.,UNI,2,1
+5236,Pope,William,NGO,2,1
+5237,Pottier,E.,IICI,2,1
+5238,Preihs,Georg,SECRS,2,1
+5239,Price,Pattie,NGO,1,1
+5240,Quaresma Vianna,H. da Guerra,DELSDN,2,1
+5241,Radhakrishnan,S.,UNI,2,1
+5242,Radisics,E.,LONO,2,1
+5243,Rais,Jules,CULTURE,2,1
+5244,Reichenstein,David,UNI,2,1
+5245,Remond,,NGO,2,1
+5246,Remos,,GOV,2,1
+5247,Reque,Dikka,ETU,1,1
+5248,Richard,,EDUC,2,1
+5249,Rieber-Mohn,,LONO,1,1
+5250,Roach,J. O.,UNI,3,1
+5251,Robinet de Clery,A.,GOV,2,1
+5252,Rosenberg,,POLITIC,2,1
+5253,Rosenborg,A.,UNK,2,1
+5254,Rossello,P.,EDUC,2,1
+5255,Rouge,B. de,NGO,2,1
+5256,Sanin Cano,B.,NGO,2,1
+5257,Schoell,Frank L.,LONO,2,1
+5258,Schwerig,Arthur,ETU,2,1
+5259,Secretan,Daniel,IICI,2,1
+5260,Shabandar,,DELSDN,2,1
+5261,Silva,P. Da,UNK,2,1
+5262,Silver,C. W.,GOV,2,1
+5263,Skylstad,R. B.,GOV,2,1
+5264,Sloutzki,,UNK,3,1
+5265,Smedley MacLean,Ida,FEM,1,1
+5266,Smith,Hugh A.,NGO,2,1
+5267,Sederblom,St[effen],GOV,2,1
+5268,Spykman,Nicolas,UNI,2,1
+5269,Srbik,Heinrich Von,UNI,2,1
+5270,Staecoff,Gueorgui Chr.,NGO,2,1
+5271,Stearns,Pauline,NGO,2,1
+5272,Stegmanis,A.,GOV,2,1
+5273,Stein Schibsted,Lektor,NGO,2,1
+5274,Steller,M. de,SOC,1,1
+5275,Stepovic,Albin,GOV,2,1
+5276,Stohr,C. H.,NGO,1,1
+5277,Straumann,H.,EDUC,2,1
+5278,Studebaker,J. W.,GOV,2,1
+5279,Teran,Juan B.,COMNAT,2,1
+5280,Tetzner,Lisa,NGO,1,1
+5281,Thelin,Georges,OIT,2,1
+5282,Thomas,L.P.,NGO,2,1
+5283,Tisdale,,NGO,2,1
+5284,Tixier,A.,OIT,2,1
+5285,Tomkins,W.D.,GOV,2,1
+5286,Tourneau,Le,EDUC,2,1
+5287,Terkel,Siegfried,UNI,2,1
+5288,Venkatswaran,M. V.,GOV,2,1
+5289,Vilain,L.,NGO,2,1
+5290,Vocadlo,O.,UNI,2,1
+5291,Voinovitch,L. de,DELSDN,2,1
+5292,Voirier,H.,UNI,2,1
+5293,Wartenweiler,,NGO,2,1
+5294,Watteville,J. Ch. de,NGO,2,1
+5295,Weber,Marjorie F.,UNK,1,1
+5296,White,J.A.,NGO,2,1
+5297,Wilhelm,,NGO,2,1
+5298,Williams,,UNK,1,1
+5299,Winter,E.,COMNAT,2,1
+5300,Wolfers,Arnold,UNI,2,1
+5301,Woodsmall,,NGO,1,1
+5302,Woo Kaizeng,,DIPLO,2,1
+5303,Woycriki,Alexandre,NGO,2,1
+5304,Wright,Quincy,UNI,2,1
+5305,Wu-Shi-Fee,,DELSDN,2,1
+5306,Zaharescu,C.,UNI,2,1
+5307,Zook,George F.,GOV,2,1
+5308,Zukovitzki,,ETU,2,1
+5309,Zumeta ,,DIPLO,2,1
+5310,Abbott,Maude E.,CULTURE,1,1
+5311,Abegg,Wilhelm Feld.,NGO,2,1
+5312,Alazard,Jean,UNI,2,1
+5313,Albert,P.,DIPLO,2,1
+5314,Albrecht,,NGO,3,1
+5315,Allnatt,J. C.,NGO,3,1
+5316,Altamira,,NGO,2,1
+5317,Ame-Leroy,,GOV,2,1
+5318,Amelio,d',GOV,2,1
+5319,Ames Mead,Lucia,NGO,1,1
+5320,Anchorena,de,DIPLO,3,1
+5321,Anderson,E. H.,CULTURE,2,1
+5322,Andre,Tony,NGO,2,1
+5323,Andre,,NGO,3,1
+5324,Aner,,NGO,1,1
+5325,Antonoff,Nicolas P.,UNI,2,1
+5326,Armstrong,Hamilton Fish,NGO,2,1
+5327,Arquilliere,,NGO,2,1
+5328,Ascher,,NGO,3,1
+5329,Auspiz,H.,GOV,1,1
+5330,Avezzana,,DIPLO,2,1
+5331,Bachmann,Herta,NGO,1,1
+5332,Barclay,Thomas,UNK,2,1
+5333,Barriol,,NGO,3,1
+5334,Barthou,Louis,GOV,2,1
+5335,Baudouin,,NGO,2,1
+5336,Baumer,Gertrud,GOV,1,1
+5337,Becker,Josef,CULTURE,2,1
+5338,Beckers,Rene,NGO,2,1
+5339,Beck,Walter,NGO,2,1
+5340,Beer,Max,INFO,2,1
+5341,Beichmann,Johann,NGO,2,1
+5342,Beldie,C.,NGO,3,1
+5343,Belot,,EDUC,2,1
+5344,Benoit-Levy,,NGO,3,1
+5345,Beonio-Brocchieri,V.,UNI,3,1
+5346,Berard,Victor,GOV,2,1
+5347,Berg,P. J. van den,NGO,3,1
+5348,Bersou,L.,COMNAT,2,1
+5349,Bertha,,GOV,3,1
+5350,Beteille,Pierre,ETU,2,1
+5351,BeyE,Emine,GOV,2,1
+5352,Billotey,,EDUC,1,1
+5353,Billy,de,DIPLO,2,1
+5354,Blacklock,H. H.,NGO,3,1
+5355,Blondin,J.,NGO,2,1
+5356,Blum,Andre,NGO,2,1
+5357,Bogh,,CULTURE,2,1
+5358,Boissiere,P. de la ,UNI,2,1
+5359,Bollert,,CULTURE,2,1
+5360,Bonfante,,UNI,2,1
+5361,Bonnet,M.,EDUC,1,1
+5362,Borsari,Gino,UNI,2,1
+5363,Borucki,,NGO,2,1
+5364,Bosc,,NGO,2,1
+5365,Bourdillon,F. B.,UNI,3,1
+5366,Boy-Zelenski,,NGO,3,1
+5367,Boys,W.,NGO,3,1
+5368,BriodB,Blaise,IICI,2,1
+5369,Brion,Marcel,NGO,2,1
+5370,Broda,R.,UNI,3,1
+5371,Brucke,E.,UNI,2,1
+5372,Brunot,M.,EDUC,1,1
+5373,Bruns,,UNI,3,1
+5374,Brunschvicg,Leon,UNI,2,1
+5375,Bryant,L. M.,CULTURE,3,1
+5376,Budzislawski,,NGO,3,1
+5377,Bujor,,UNI,2,1
+5378,Caggese,Romolo,NGO,2,1
+5379,Cagnat,,NGO,3,1
+5380,Cahuzac,D. de,CULTURE,3,1
+5381,Canavate,Don Emilio Ortiz,GOV,2,1
+5382,Carlomagno,Adelqui,NGO,2,1
+5383,Carrillo,Gomez,NGO,2,1
+5384,Cartwright,Morse A.,EDUC,2,1
+5385,Casimir,R.,UNI,2,1
+5386,Cavalier,,GOV,2,1
+5387,Chalpovski,,DIPLO,2,1
+5388,Chapoutot,,NGO,3,1
+5389,Charles-Henry,,GOV,2,1
+5390,Charpentier,Rene,NGO,2,1
+5391,Chatterjea,Ramananda,NGO,3,1
+5392,Chaumet,Henri,GOV,2,1
+5393,Clara,,NGO,2,1
+5394,Claudel,P.,DIPLO,2,1
+5395,Close,Charles,NGO,2,1
+5396,Clough,Shepard B.,NGO,2,1
+5397,Coca,,UNI,2,1
+5398,Confida,,NGO,3,1
+5399,Conolly,Violet,IICI,1,1
+5400,Cooper,R. F.,EDUC,3,1
+5401,Corbin,William L.,CULTURE,2,1
+5402,Cordeaux,Paul,NGO,2,1
+5403,Corporaal,J. B.,CULTURE,2,1
+5404,Coudenhove-Kalergi,,NGO,2,1
+5405,Coulea,A.,NGO,3,1
+5406,Courteault,P.,UNI,2,1
+5407,Couturier,,GOV,2,1
+5408,Craig,,NGO,2,1
+5409,Cremieux,A.,NGO,3,1
+5410,Cremieux,Benjamin,NGO,2,1
+5411,Cronan,T.,NGO,3,1
+5412,Cuperus,S. M.,NGO,3,1
+5413,Czekalski,Joseph,NGO,2,1
+5414,Czerny,S.,UNI,2,1
+5415,Dakhov,I. Z.,UNI,2,1
+5416,Dalma,B.,IICI,3,1
+5417,Danger,Rene,NGO,2,1
+5418,Dausset,,GOV,2,1
+5419,David,Henri,UNI,2,1
+5420,David-Neel,Alexandra,NGO,1,1
+5421,Davifon,Jacques,DIPLO,2,1
+5422,Debrue,Rose,NGO,2,1
+5423,Decenciere,A.,NGO,3,1
+5424,Defries,Amelia,NGO,1,1
+5425,Degen,Max,NGO,2,1
+5426,Degobart,H.,NGO,2,1
+5427,Derie,Louis,UNI,2,1
+5428,Dickson,A. M.,EDUC,1,1
+5429,Diemer,W. G.,NGO,3,1
+5430,Doegen,Wilhelm,CULTURE,2,1
+5431,Dolling,H. W.,NGO,3,1
+5432,Dons,Herman,NGO,2,1
+5433,Dorner,Otto,NGO,2,1
+5434,Duchemin,J. L.,NGO,2,1
+5435,Ducos,,GOV,2,1
+5436,Dujardin,Edouard,NGO,2,1
+5437,Dunoyer,L.,NGO,2,1
+5438,Dupuy de Lome,,NGO,3,1
+5439,Duquesne,,NGO,2,1
+5440,Dyson,Frank,UNI,2,1
+5441,Ebert,O. E.,NGO,3,1
+5442,Efron,,NGO,3,1
+5443,Eggertz,,NGO,2,1
+5444,Ehrenberg,Hans,NGO,2,1
+5445,Ehrentfest,P.,UNI,3,1
+5446,Eliasberg,W.,NGO,2,1
+5447,Eloesser,,NGO,3,1
+5448,Enckell,,DIPLO,2,1
+5449,Erdberg,,GOV,2,1
+5450,Ernst,Julius,NGO,2,1
+5451,Esdaile,Arundel,CULTURE,2,1
+5452,Espezol,d',NGO,2,1
+5453,Essen,Van,NGO,3,1
+5454,Etten,H. van,NGO,2,1
+5455,Everdingen,van,UNI,2,1
+5456,Fabre,,NGO,2,1
+5457,Fehr,Henri,UNI,2,1
+5458,Feihl,E.,NGO,3,1
+5459,Ferrand,Gabrielle,NGO,1,1
+5460,Fethy,,DIPLO,2,1
+5461,Ficker,,NGO,2,1
+5462,Finbert,Elias J.,NGO,2,1
+5463,Fischbacher,,NGO,3,1
+5464,Fondaminski,,NGO,3,1
+5465,Forest,Louis,NGO,2,1
+5466,Forgue,,UNI,2,1
+5467,Foulds,John,NGO,1,1
+5468,Fragnaud,,NGO,2,1
+5469,Franeois,Albert,GOV,2,1
+5470,Franellich,Carlo,NGO,2,1
+5471,Frazer,James,UNK,2,1
+5472,Freer,Percy,CULTURE,2,1
+5473,Friedlander,Lilian M.,NGO,1,1
+5474,Fuchs,Paul,NGO,2,1
+5475,Fumagalli,G.,UNI,3,1
+5476,Furth,Henriette,NGO,1,1
+5477,Ganga Ram,Tahl Ram,NGO,3,1
+5478,Gardet,,NGO,1,1
+5479,Gaster,Leon,NGO,2,1
+5480,Gaultier,Paul,NGO,2,1
+5481,Gautherot,Gustave,UNI,2,1
+5482,Gemmingen,Otto Freiherr von,NGO,2,1
+5483,Georgevitch,Hadji,GOV,2,1
+5484,Gerelli,A.,NGO,2,1
+5485,Getaz,Emile,NGO,2,1
+5486,Gillet,L.,NGO,3,1
+5487,Gils,Thea van,CULTURE,1,1
+5488,Girdvainis,S.,DIPLO,2,1
+5489,Giuliano,Balbino,NGO,2,1
+5490,Goetl,W.,UNI,2,1
+5491,Goldschmidt,R.,NGO,2,1
+5492,Gorphe,,NGO,3,1
+5493,Gotsch,Georg,NGO,2,1
+5494,Green,Mabel,FEM,1,1
+5495,Grellet,P.,NGO,2,1
+5496,Grossmann,R.,UNI,2,1
+5497,Gruber,Jean Jacques,NGO,2,1
+5498,Gruet,Paul,NGO,2,1
+5499,Grunebaum-Ballin,,GOV,2,1
+5500,Gruvel,A.,CULTURE,2,1
+5501,Grzegorczyk,Mariun,NGO,3,1
+5502,Gsell,Paul,NGO,2,1
+5503,Guery,Pierre,EDUC,2,1
+5504,Hadow,W. H.,UNI,3,1
+5505,Hager,,NGO,3,1
+5506,Hahm,Konrad,CULTURE,2,1
+5507,Halutscynskij,,NGO,2,1
+5508,Hartogh,M. de,NGO,3,1
+5509,Haward,Laurence,CULTURE,2,1
+5510,Haye,M.,NGO,1,1
+5511,Healy,John,NGO,2,1
+5512,Hebe,Emile,NGO,2,1
+5513,Hefele,,CULTURE,2,1
+5514,Heilbrunn,,NGO,3,1
+5515,Heile,,CULTURE,2,1
+5516,Heimburg,von,NGO,3,1
+5517,Hemming,Doris,NGO,1,1
+5518,Hendrick,Lillian,NGO,1,1
+5519,Hermann-Otavsky,Karl,UNI,2,1
+5520,Heumburg,Werner von,NGO,2,1
+5521,Hirsch,G. C.,UNI,3,1
+5522,Hissink,,NGO,2,1
+5523,Hitonen,E. Marks de,DIPLO,2,1
+5524,Hjelmslev,Louis,NGO,2,1
+5525,Hoki,,DELSDN,3,1
+5526,Holman,A.,DIPLO,3,1
+5527,Holwech,Wilhelm,NGO,2,1
+5528,Homburg,Robert,NGO,2,1
+5529,Hoyningen-Huene,von,ETU,3,1
+5530,Huber,Hans,NGO,2,1
+5531,Huber-Noodt,U.,IICI,3,1
+5532,Hudig,F. W.,CULTURE,2,1
+5533,Hunt,Dorothy,NGO,1,1
+5534,Hutchinson,F. E.,UNI,2,1
+5535,Ianitzky,,NGO,2,1
+5536,Illington,Marjorie,EDUC,1,1
+5537,Jackh,Ernst,UNI,2,1
+5538,Jacks,,EDUC,2,1
+5539,Jaech,Ernst,NGO,2,1
+5540,Jaegle,,GOV,2,1
+5541,Jaloux,Edmond,NGO,2,1
+5542,Jatho,Herm.,NGO,2,1
+5543,Jean-Bernard,,NGO,2,1
+5544,Jenks,,UNI,3,1
+5545,Jentsch,Gerhard F.,ETU,2,1
+5546,Joan,Stefan,GOV,2,1
+5547,Joerger,K.,NGO,3,1
+5548,Johansson,Axel,NGO,2,1
+5549,Jonas,,NGO,3,1
+5550,Jones,H. W.,NGO,1,1
+5551,Jordan,Ed.,UNI,2,1
+5552,Joseph-Barthelemy,,DELSDN,2,1
+5553,Joshi,S. L.,EDUC,2,1
+5554,Joycet,Thos. A.,UNI,3,1
+5555,Junghann,,NGO,3,1
+5556,Junker,H.,UNI,2,1
+5557,Kalijarvi,Thorsten,UNI,2,1
+5558,Kallner,Siegfried,EDUC,2,1
+5559,Karplus,Hugo,NGO,2,1
+5560,Kartzke,,UNI,3,1
+5561,Kask,,DIPLO,2,1
+5562,Keay,William C.,NGO,2,1
+5563,Keller,R. A.,EDUC,3,1
+5564,Kempen,M. E. C.,NGO,1,1
+5565,Kidde,E. R.,NGO,3,1
+5566,Kiefe,R.,NGO,3,1
+5567,Kiesel,Karl,NGO,2,1
+5568,Kirkoff,Tatiana E.,NGO,1,1
+5569,Klimas,Petras,DIPLO,2,1
+5570,Klunnyj,Pierre,UNI,2,1
+5571,Koenigs,C.,UNI,2,1
+5572,Kogel,G. R.,UNI,3,1
+5573,Kohnstamm,Ph.,UNI,2,1
+5574,Korwin-Piotrowska,de,NGO,1,1
+5575,Koste,E.,IICI,3,1
+5576,Kotlan,A.,CULTURE,2,1
+5577,Kraimk,Sylvain,NGO,2,1
+5578,Kraus,Charles,NGO,2,1
+5579,Kreppel,J.,GOV,3,1
+5580,Kehn,,DIPLO,2,1
+5581,Kuhnert,,NGO,3,1
+5582,Kulz,,GOV,2,1
+5583,Kwei,John C. B.,CULTURE,2,1
+5584,Labrosse,,CULTURE,2,1
+5585,Lacger,de,NGO,2,1
+5586,Lacy,Mary G.,GOV,1,1
+5587,Lahy,,UNI,2,1
+5588,Laskine,,GOV,2,1
+5589,Latham,Geo,NGO,2,1
+5590,Lauga,Jean,NGO,2,1
+5591,Laughlin,Kathleen,NGO,1,1
+5592,Lavarenne,M.,EDUC,2,1
+5593,Le Mesurier,Irene,EDUC,1,1
+5594,Lecomte,,EDUC,2,1
+5595,Lemonon,,NGO,2,1
+5596,Lentzen,Leo James,NGO,2,1
+5597,Lepine,Pierre,IICI,2,1
+5598,Lequeux,A.,NGO,3,1
+5599,Levy,R.,IICI,3,1
+5600,Levy-Ullmann,,UNI,2,1
+5601,Lichtenberger,Henri,UNI,2,1
+5602,Lion,Hilde,NGO,1,1
+5603,Lloyd Evans,O.,GOV,3,1
+5604,Loukovich,Kosta,NGO,2,1
+5605,Lovtzky,,NGO,3,1
+5606,Lowry,A.,NGO,3,1
+5607,Maccas,Leon,DIPLO,2,1
+5608,Magrini,,UNI,3,1
+5609,Maillard,Georges,NGO,2,1
+5610,Malcolm,L. W. G.,CULTURE,3,1
+5611,Malye,,NGO,3,1
+5612,Mansbridge,Albert,NGO,2,1
+5613,Marchi,Mario de,NGO,2,1
+5614,Marcilly,de,GOV,2,1
+5615,Marini,Oddone,UNI,2,1
+5616,Maro,Paul,UNI,2,1
+5617,Marston,Maurice,NGO,2,1
+5618,Martin,,NGO,1,1
+5619,Martin,Louis,NGO,2,1
+5620,Marty,,EDUC,2,1
+5621,Maseras,Alfons,NGO,2,1
+5622,Mathieu,Henri,UNI,2,1
+5623,Matthews,Alice,NGO,1,1
+5624,Maugain,,UNI,2,1
+5625,Maybon,Albert,NGO,2,1
+5626,Mazon,Andre,UNI,2,1
+5627,Medeiros e Albuquerque,J. de,NGO,3,1
+5628,Meier,John,CULTURE,2,1
+5629,Meillet,,UNI,3,1
+5630,Meinhardt,,NGO,3,1
+5631,Meyer,Katherina von,UNI,1,1
+5632,Meyer,Hellmuth,NGO,2,1
+5633,Meyer,Jose,CULTURE,2,1
+5634,Meyerowitch,,NGO,3,1
+5635,Mieli,Aldo,NGO,2,1
+5636,Miers,Henry,NGO,2,1
+5637,Milioukov,Paul,NGO,2,1
+5638,Miller,James C.,UNI,2,1
+5639,Minotte,,NGO,2,1
+5640,Mockrauer,Franz,NGO,2,1
+5641,Mohr,Martin,NGO,2,1
+5642,Moll-Weiss,A.,NGO,1,1
+5643,Montandon,Raoul,NGO,2,1
+5644,Montel,,UNI,2,1
+5645,Moorhead,Helen,NGO,1,1
+5646,Mosinskis,,NGO,3,1
+5647,Moskalenko,,UNI,3,1
+5648,Motchoulski,,NGO,3,1
+5649,Moutier,du,NGO,2,1
+5650,Mrozowski,Jean,DELIICI,2,1
+5651,Mueller,Emile,NGO,2,1
+5652,Muret,Maurice,NGO,2,1
+5653,Mussolini,Arnaldo,NGO,2,1
+5654,Nabi Khan,Ala Jhulan,DIPLO,2,1
+5655,Nachtshein,,UNI,3,1
+5656,Natkevicius,Ladas,NGO,3,1
+5657,Nehama,C.,NGO,3,1
+5658,Nelbock,,NGO,3,1
+5659,Netousek,,UNI,2,1
+5660,Newcombe,,CULTURE,3,1
+5661,Ninko Peric,,GOV,2,1
+5662,Nintchich,,GOV,2,1
+5663,Noble Hall,H.,NGO,2,1
+5664,Nordmann,Marzel,NGO,2,1
+5665,Normann,Axel-Otto,NGO,2,1
+5666,Northcroft,D. M.,NGO,1,1
+5667,Nowack,Carl,NGO,2,1
+5668,Nuschke,,NGO,2,1
+5669,Oda,Kenzo,NGO,2,1
+5670,Oesterreich,Paul,NGO,2,1
+5671,Oldenburg,Serge F.,NGO,2,1
+5672,Ooms,,GOV,2,1
+5673,Osusky,,DIPLO,2,1
+5674,Ottlik,G.,NGO,2,1
+5675,Ould,Hermon,NGO,2,1
+5676,Pacy,Frank,CULTURE,2,1
+5677,Paget,Richard,NGO,2,1
+5678,Paolini,Enrico,NGO,2,1
+5679,Papillaut,,UNI,2,1
+5680,Parigot,Hippolyte,NGO,2,1
+5681,Paris,Pierre,NGO,2,1
+5682,Partridge,,NGO,1,1
+5683,Pathe,Charles,NGO,2,1
+5684,Paul,H.,NGO,2,1
+5685,Peretiatkowicz,,UNI,2,1
+5686,Pericard,,UNI,1,1
+5687,Pernot,Hubert,UNI,2,1
+5688,Perrier de Feral,,NGO,3,1
+5689,Perrier,Leon,GOV,2,1
+5690,Philip,,GOV,2,1
+5691,Piaget,,NGO,3,1
+5692,Picard,J.,EDUC,2,1
+5693,Pierat,,NGO,2,1
+5694,Pierret,Robert,NGO,2,1
+5695,Polgan,E.,NGO,2,1
+5696,Popesco,Stelian,NGO,2,1
+5697,Potter,Frederick C.,NGO,2,1
+5698,Prescott,,UNI,3,1
+5699,Preuss,,ETU,3,1
+5700,Prittwitz und Gaffron,E. von,NGO,3,1
+5701,Proix,Jean,NGO,2,1
+5702,Prunieres,Henry,NGO,2,1
+5703,Pulaski,Franeois,DIPLO,2,1
+5704,Putzeys,O.,NGO,2,1
+5705,Pyke,Richard N.,ETU,2,1
+5706,Quensel,Annie,NGO,1,1
+5707,Rainprecht,A.,NGO,3,1
+5708,Ransford,F. B.,NGO,3,1
+5709,Rantasalo,,NGO,3,1
+5710,Rathke,Heinz Werner,NGO,2,1
+5711,Raupach,Bruno,NGO,2,1
+5712,Ravier,Louis,NGO,2,1
+5713,Rebillon,A.,ETU,2,1
+5714,Refsdal,,UNI,3,1
+5715,Reichmann,,NGO,3,1
+5716,Remouchamps,,CULTURE,2,1
+5717,Rendu,Robert,NGO,2,1
+5718,Renouvin,,NGO,2,1
+5719,Richard,A.,NGO,2,1
+5720,Riddell,,GOV,2,1
+5721,Riesser,,DIPLO,3,1
+5722,Rignano,Eugenio,NGO,2,1
+5723,Rincones,Salustio Gonzalez,DIPLO,2,1
+5724,Riotor,Leon,UNK,2,1
+5725,Risler,Georges,GOV,2,1
+5726,Ritch,Noel,NGO,2,1
+5727,Robertson,,CULTURE,1,1
+5728,Rochefoucauld,de La,NGO,1,1
+5729,Rodenwaldt,H.,UNI,2,1
+5730,Roeve,Vand der,UNI,2,1
+5731,Rohmkopf,Emile,NGO,2,1
+5732,Roig de Leuchserning,Emilio,COMNAT,2,1
+5733,Roig y Bergada,J.,NGO,3,1
+5734,Rolland,,NGO,2,1
+5735,Rollet,,NGO,2,1
+5736,Ronze,Raymond,UNI,2,1
+5737,Roo van Alderwereld,C. J. de,NGO,1,1
+5738,Rosenfeld,H. V.,NGO,3,1
+5739,Rosenstock-Hussy,,NGO,3,1
+5740,Roupinski,,NGO,2,1
+5741,Roustan,Mario,GOV,2,1
+5742,Roz,Firmin,NGO,2,1
+5743,Rozsaffy,,CULTURE,2,1
+5744,Ruellan,Francis,UNI,2,1
+5745,Rummel,Georg,NGO,2,1
+5746,Ruppel,,NGO,3,1
+5747,Rygiel,Stefan,CULTURE,2,1
+5748,Saavedra,Bautista,COMNAT,2,1
+5749,Saladin,,CULTURE,2,1
+5750,Salomon,Gottfried,UNI,2,1
+5751,Sarran,Louis,NGO,2,1
+5752,Savart,P.,NGO,1,1
+5753,Savornin,,NGO,2,1
+5754,Scelle,Georges,UNI,2,1
+5755,Scheel,Otto,UNI,2,1
+5756,Schereschewsky,Ph.,NGO,2,1
+5757,Scheuble,,NGO,3,1
+5758,Schiffer,,NGO,3,1
+5759,Schmidt-Ott,,GOV,2,1
+5760,Schmitz,,NGO,3,1
+5761,Schrijnen,,NGO,3,1
+5762,Schucking,,UNI,2,1
+5763,Schulze,,CULTURE,2,1
+5764,Sclimbea,,NGO,2,1
+5765,Seabury,William M.,NGO,2,1
+5766,Seger,Gerhard,NGO,2,1
+5767,Silberstein,Franz,NGO,2,1
+5768,Simons,Hans,UNI,2,1
+5769,Simons,,NGO,2,1
+5770,Sinegre,J. M. L.,NGO,1,1
+5771,Sinn,,NGO,3,1
+5772,Sloninsky,,NGO,3,1
+5773,Smith,,LONO,1,1
+5774,Smith,,NGO,2,1
+5775,Smith,Jean de,NGO,2,1
+5776,Sologar,E.,UNI,2,1
+5777,Somogyi,Jules de,ETU,2,1
+5778,Stahl,Leo,NGO,2,1
+5779,Stang,Frederik,UNI,2,1
+5780,Stead,Wickham,NGO,3,1
+5781,Stefanik,,DIPLO,3,1
+5782,Stern-Rubarth,,NGO,3,1
+5783,Stoicesco,,DIPLO,2,1
+5784,Stone,Herbert,NGO,2,1
+5785,Stromgreyn,,UNI,2,1
+5786,Swain,Esther M.,NGO,1,1
+5787,Tagore,Rabindranath,UNI,2,1
+5788,Tasset,Jacques,NGO,2,1
+5789,Thamm,,GOV,1,1
+5790,Thelemann,Frances F.,NGO,1,1
+5791,Thompson,Warren,UNI,2,1
+5792,Tiersot,Julien,NGO,2,1
+5793,Titius,,UNI,3,1
+5794,Tjortjis,Stylianos,NGO,2,1
+5795,Todeschini,F.,UNI,2,1
+5796,Tortkovitch,Mirko,NGO,2,1
+5797,Traz,Robert de,NGO,2,1
+5798,Tyszkowski,,UNI,3,1
+5799,Uhlenbeck,,NGO,3,1
+5800,Unbdenstock,Madeleine,CULTURE,1,1
+5801,Urbas,E.,LONO,3,1
+5802,Uruchurtu,Alfredo E.,GOV,2,1
+5803,Vallentin,Antonia,NGO,1,1
+5804,Valyi,Felix,NGO,2,1
+5805,Vaubourdolle,,CULTURE,2,1
+5806,Ven,D. J. Van der,NGO,3,1
+5807,Verheyden,E.,NGO,3,1
+5808,Verunac,V.,NGO,2,1
+5809,Veverka,,DIPLO,2,1
+5810,Vienot,,NGO,2,1
+5811,Villey,P.,UNI,2,1
+5812,Vittig,Edouard,NGO,2,1
+5813,Vladesco,S. R.,NGO,1,1
+5814,Vogeler,Hedwig,NGO,1,1
+5815,Vollmer,Hans,NGO,2,1
+5816,Volterra,Vito,NGO,2,1
+5817,Vougman,E.,CULTURE,2,1
+5818,Voutchetitch,Mado,NGO,2,1
+5819,Waetzold,,CULTURE,2,1
+5820,Walkom,A. B.,UNI,3,1
+5821,Warren,Raoul de,NGO,2,1
+5822,Watry-Ponseile,,FEM,1,1
+5823,Wegener,Harriet,UNI,1,1
+5824,Wehberg,Hans,NGO,2,1
+5825,Went,F. A. F. C.,UNI,3,1
+5826,Werner,Moritz,UNI,2,1
+5827,Wertheimer,Fritz,UNI,2,1
+5828,Whitton,Charlotte,NGO,1,1
+5829,Wiegandt,Ernst,NGO,2,1
+5830,Wigram,R. F.,GOV,2,1
+5831,Wijk,Nicolas van,COMNAT,2,1
+5832,Willoughby,R. R.,UNI,2,1
+5833,Wilson,Dover,UNI,2,1
+5834,Winthrop Young,G.,UNK,3,1
+5835,Wirth,,GOV,2,1
+5836,Witte,Max,GOV,2,1
+5837,Wohl,Paul,NGO,2,1
+5838,Xiran,Joaqim,NGO,2,1
+5839,Zadek,Walter,NGO,2,1
+5840,Zimmermann,,GOV,2,1
+5841,Zint,Hans,NGO,2,1
+5842,Zoubine,,NGO,3,1
+5843,Zunz,,NGO,2,1
+5844,Aubert,Xavier,CULTURE,2,1
+5845,Aude,,CULTURE,2,1
+5846,Baard,C. W. H.,CULTURE,2,1
+5847,Bailey,J.,CULTURE,2,1
+5848,Barnett,Lionel D.,CULTURE,2,1
+5849,Baudi di Vesme,Alessandro,CULTURE,2,1
+5850,Beckernig Vinckers,H.,CULTURE,2,1
+5851,Boehlan,J.,CULTURE,2,1
+5852,Boreux,,CULTURE,2,1
+5853,Borge,,CULTURE,2,1
+5854,Bourgo,le,EDUC,2,1
+5855,Briere,Gaston,UNK,2,1
+5856,Brouwer,D.,CULTURE,2,1
+5857,Bucklet,J. J.,CULTURE,2,1
+5858,Buisman,H.,CULTURE,2,1
+5859,Burger,,NGO,2,1
+5860,Campbell Dodgson,,CULTURE,3,1
+5861,Camp,S. J.,CULTURE,2,1
+5862,Caron,,NGO,3,1
+5863,Cauchery,,NGO,2,1
+5864,Clarke,C. S.,CULTURE,3,1
+5865,Dalton,,CULTURE,2,1
+5866,Delen,Ary,CULTURE,2,1
+5867,Dufour,Alf.,EDUC,2,1
+5868,Dunin-Karwicki,Stanislaw,CULTURE,2,1
+5869,Fairbanks,Arthur,CULTURE,2,1
+5870,Falke,Von,CULTURE,2,1
+5871,Ferrels,J. W.,NGO,2,1
+5872,Fierie,G. P.,CULTURE,2,1
+5873,Fogolari,Gino,NGO,2,1
+5874,Folcker,Erik,CULTURE,2,1
+5875,Forin,R.,NGO,2,1
+5876,Gaiffier d'Hestroy,,DIPLO,2,1
+5877,Gelder,Van,CULTURE,2,1
+5878,Gembarzewski,Bronislaw,CULTURE,2,1
+5879,Gilson,Julien P.,CULTURE,2,1
+5880,Glaser,Kurt,CULTURE,2,1
+5881,Glenk,Robert,CULTURE,2,1
+5882,Gluck,Gustav,CULTURE,2,1
+5883,Hannema,D.,CULTURE,2,1
+5884,Hardie,,CULTURE,2,1
+5885,Hermann,M.,CULTURE,2,1
+5886,Hill,George Francis,CULTURE,2,1
+5887,Hobson,R. L.,CULTURE,2,1
+5888,Hofmann,Fr.,CULTURE,2,1
+5889,Hoijnck van Papendrecht,A.,CULTURE,2,1
+5890,Holwerda,J. H.,CULTURE,2,1
+5891,Hooft,C. G.,CULTURE,2,1
+5892,Hutchinson,Charles L.,NGO,2,1
+5893,Jesse,R.,NGO,2,1
+5894,Justi,Ludwig,CULTURE,2,1
+5895,Kendrick,A. F.,CULTURE,2,1
+5896,Kennedy,H. A.,CULTURE,3,1
+5897,Kennedy,,CULTURE,3,1
+5898,Kesoller-Muller,H.,NGO,1,1
+5899,Kopera,Felix,CULTURE,2,1
+5900,Laes,,CULTURE,3,1
+5901,Leclercq,Rene,UNI,2,1
+5902,Lowe,E. E.,CULTURE,3,1
+5903,Luthi,Karl G.,CULTURE,2,1
+5904,MacLagan,E. R. D.,CULTURE,3,1
+5905,Maes,,CULTURE,2,1
+5906,Manieri,G. B.,CULTURE,2,1
+5907,Maraini,Antonio,NGO,2,1
+5908,Marchandeau,,GOV,2,1
+5909,Marquet de Vasselot,,CULTURE,3,1
+5910,Michon,E.,CULTURE,2,1
+5911,Millet,Gabriel,UNI,2,1
+5912,Minnigerode,C. Powel,CULTURE,2,1
+5913,Minto,Antonio,CULTURE,2,1
+5914,Mitchell,H. P.,CULTURE,3,1
+5915,Modigliani,Ettore,CULTURE,2,1
+5916,Mohler,,CULTURE,2,1
+5917,Musset,Georges,CULTURE,2,1
+5918,Naumann,M. C.,CULTURE,2,1
+5919,Nicodemi,Giorgio,CULTURE,2,1
+5920,Nicola,Giacomo de,CULTURE,2,1
+5921,Oeconomou,Georges,UNK,2,1
+5922,Ojetti,Ugo,NGO,2,1
+5923,Palmer,G. H.,CULTURE,3,1
+5924,Perate,,CULTURE,2,1
+5925,Posse,Hans,CULTURE,2,1
+5926,Pourcherolle,,NGO,1,1
+5927,Pury,Paul de,CULTURE,2,1
+5928,Raadt,J. L. de,CULTURE,2,1
+5929,Rackham,B.,CULTURE,2,1
+5930,Ranquet,H. du,NGO,2,1
+5931,Rathuis de Limay,,UNK,3,1
+5932,Reinach,Salomon,UNK,2,1
+5933,Reyers,A. J.,CULTURE,2,1
+5934,Roberts,Des,CULTURE,2,1
+5935,Robinson,Edward,CULTURE,2,1
+5936,Rowland,,CULTURE,2,1
+5937,Sauerlandt,Max,CULTURE,2,1
+5938,Sharp,R. Jarquharson,CULTURE,2,1
+5939,Siderius,J.,CULTURE,2,1
+5940,Simpson,James J.,CULTURE,2,1
+5941,Smith,Arthur H.,CULTURE,2,1
+5942,Snehtlage,E.,CULTURE,2,1
+5943,Steriadi,Jean,CULTURE,2,1
+5944,Stheeman,,CULTURE,2,1
+5945,Strange,E. F.,CULTURE,3,1
+5946,Thureau Daugin,,CULTURE,2,1
+5947,Upmark,Gustaf,CULTURE,2,1
+5948,Ventusi,Lionello,UNI,2,1
+5949,Wegel,Rudolf,CULTURE,2,1
+5950,Whiting,Allen,CULTURE,2,1
+5951,Willoughby,Charles,CULTURE,2,1
+5952,Zwartendijk,Jo.,NGO,1,1
+5953,Adam,Tassilo,UNI,2,1
+5954,Alborta,Waldo,NGO,2,1
+5955,Almeida,Renato,NGO,2,1
+5956,Ambros,N.,GOV,2,1
+5957,Antoniewicz,Wlodzimierz,UNI,2,1
+5958,Barbeau,Marius,CULTURE,2,1
+5959,Basalo,Pedro,NGO,2,1
+5960,Benavente,Jose Maria,NGO,2,1
+5961,Bernhoft,H.A.,DELIICI,2,1
+5962,Bilmans,A.,DIPLO,2,1
+5963,Bosch,F. D. K.,NGO,2,1
+5964,Canteloube,,NGO,2,1
+5965,Caravito,Humberto,NGO,2,1
+5966,Castillo,Jesus,NGO,2,1
+5967,Charvilhat,,NGO,2,1
+5968,Chauvet,,NGO,2,1
+5969,Choulguine,A.,UNI,2,1
+5970,Ciermak,,UNI,2,1
+5971,Clouzot,,CULTURE,2,1
+5972,Erixon,Sigurd,CULTURE,2,1
+5973,Estrada,Genaro,GOV,2,1
+5974,Frick,R. O.,NGO,2,1
+5975,Garcia Monje,Joaquin,NGO,2,1
+5976,Gavidia,Francisco,NGO,2,1
+5977,Gennep,A. Van,IICI,2,1
+5978,Ghabini,,DELSDN,2,1
+5979,Goblet,,NGO,2,1
+5980,Gourdon,,NGO,2,1
+5981,Graft,Van de,NGO,1,1
+5982,Gunter,Rafael Yela,NGO,2,1
+5983,Haberlandt,Arthur,NGO,2,1
+5984,Haberlandt,Michael,NGO,2,1
+5985,Henriquez Urena,Pedro,NGO,2,1
+5986,Hercourt,d',NGO,2,1
+5987,Herrera,Rafael Larco,NGO,2,1
+5988,Huysmans,Camille,GOV,2,1
+5989,Janowski,Aleksander,NGO,2,1
+5990,Jauregui,Antonio Batres,NGO,2,1
+5991,Jeanton,,NGO,2,1
+5992,Jullien,,NGO,2,1
+5993,Kotek,Georg,NGO,2,1
+5994,Krohn,Kaarle,NGO,2,1
+5995,Kunst,J.,NGO,2,1
+5996,Lavandez,Jose,NGO,2,1
+5997,Leite de Vasconcellos,Jose,NGO,2,1
+5998,Leporini,Heinrich,NGO,2,1
+5999,Liebleitner,Karl,NGO,2,1
+6000,Livingstone,R.W.,NGO,2,1
+6001,Marinus,A.,NGO,2,1
+6002,Martinez Suarez,F.,COMNAT,2,1
+6003,Martougin,,NGO,2,1
+6004,Maumene,,NGO,2,1
+6005,Mendes Correa,,UNI,2,1
+6006,Merida,Carlos,NGO,2,1
+6007,Muller,,CULTURE,2,1
+6008,Nagata,M. H.,NGO,2,1
+6009,Neuville,,NGO,2,1
+6010,Ortiz,,NGO,2,1
+6011,Osuna,,EDUC,2,1
+6012,Posnansky,Arturo,CULTURE,2,1
+6013,Prado,Pedro,NGO,2,1
+6014,Rabot,,NGO,2,1
+6015,Restrepo,Antonio Gomez,UNI,2,1
+6016,Riezler,,CULTURE,2,1
+6017,Riff,,CULTURE,2,1
+6018,Robledo,,NGO,2,1
+6019,Rodriguez Beteta,Virgilio,NGO,2,1
+6020,Rojas,Ricardo,UNI,2,1
+6021,Roquette-Pinto,Edgar,NGO,2,1
+6022,Rouzic,Paul Le,CULTURE,2,1
+6023,Sadoul,Ch.,CULTURE,2,1
+6024,Sosnowski,Oskar,UNI,2,1
+6025,Spiess,Karl,NGO,2,1
+6026,Tamayo,Franz,GOV,2,1
+6027,Therey,Alexandre de,NGO,2,1
+6028,Tichy,Karol,COMNAT,2,1
+6029,Traversari,Pedro P.,NGO,2,1
+6030,Turcios,Troylan,NGO,2,1
+6031,Uriarte,Juan Ramon,NGO,2,1
+6032,Valle,Rafael H.,NGO,2,1
+6033,Veloz,Luis Felipe,CULTURE,2,1
+6034,Versepuy,Mario,NGO,2,1
+6035,Vilallonga,Paul,UNI,2,1
+6036,Vries,I. de,UNI,2,1
+6037,Walterstorff,Emelie von,CULTURE,1,1
+6038,Woydyno,Wasdyslaw,GOV,2,1
+6039,Zeltner,de,NGO,2,1
+6040,Zoder,Raimund,NGO,2,1
+6041,Zorilla de San Martin,Juan,NGO,2,1
+6042,Barthelemy,,UNI,2,1
+6043,Bergonignan,Evian,NGO,2,1
+6044,Bontchey,Stephane,UNI,2,1
+6045,Brindeau,,UNI,2,1
+6046,Canney,A.,UNI,2,1
+6047,Carnot,,UNI,2,1
+6048,Cunningham,J.,UNI,2,1
+6049,Czudalski,F.,UNI,2,1
+6050,Dafert,,UNI,2,1
+6051,Dehorne,L.,NGO,1,1
+6052,Delafosse,,NGO,2,1
+6053,Enios,,NGO,2,1
+6054,Fileni,,NGO,2,1
+6055,Giuzinski,,NGO,2,1
+6056,Hautant,,NGO,2,1
+6057,Hesselberg,Th.,UNI,2,1
+6058,Hofman,J. J.,NGO,2,1
+6059,Horwath,G.,NGO,2,1
+6060,Koefoed,H.E.,NGO,2,1
+6061,Kornfeld,Siegmund,UNI,2,1
+6062,Kroon,J.-E.,NGO,2,1
+6063,Laignel-Lavastine,,NGO,2,1
+6064,Langendorff,von,NGO,2,1
+6065,Leclerq,,NGO,2,1
+6066,Lipman,J. C.,NGO,2,1
+6067,Macovei,,UNI,2,1
+6068,Martin,Etienne,UNI,2,1
+6069,Nager,,NGO,2,1
+6070,Perrier,Georges,NGO,2,1
+6071,Pincherle,Salvatore,UNI,2,1
+6072,Pirro,A.,NGO,2,1
+6073,Quervain,Fritz de,UNI,2,1
+6074,Rutkowski,J.,UNI,2,1
+6075,Schmiegelow,,UNI,2,1
+6076,Smeth,Jean de,NGO,2,1
+6077,Swietoslawski,,UNI,2,1
+6078,Swoboda,H.,UNI,2,1
+6079,Taillens,,UNI,2,1
+6080,Tribot Laspiere,J.,NGO,2,1
+6081,Vatev,St.,UNI,2,1
+6082,Voorheve,N.,NGO,2,1
+6083,Wagenmann,Auguste,UNI,2,1
+6084,Zaklinski,,GOV,2,1
+6085,Zeper,Waller,CULTURE,2,1
+6086,Belin,Edouard,NGO,2,1
+6087,Blum,Eugene,NGO,2,1
+6088,Bossiere,Claude Georges,NGO,2,1
+6089,Boucherot,,NGO,2,1
+6090,Brottier,Ch. H.,NGO,3,1
+6091,Bucher,,GOV,2,1
+6092,Capitant,Henri,UNI,2,1
+6093,Conner,Benjamin,NGO,2,1
+6094,Devinat,Paul,NGO,2,1
+6095,Dorr,E. C. van,COMNAT,1,1
+6096,Esnault-Pelterie,,NGO,2,1
+6097,Evrard,Raymond,NGO,2,1
+6098,Exner,Wilhelm,NGO,2,1
+6099,Favre,Andre,NGO,2,1
+6100,Gerard,Gustave Leo,NGO,2,1
+6101,Ginori-Conti,,GOV,2,1
+6102,Hauser,Enrique,NGO,2,1
+6103,Hirst,Hugo,NGO,2,1
+6104,Klein,J.,NGO,3,1
+6105,Mari,Jose,NGO,2,1
+6106,Martin-Achard,,NGO,2,1
+6107,Perrot,Jean,NGO,2,1
+6108,Phusis,,NGO,3,1
+6109,Prager,Hans,NGO,2,1
+6110,Schufeldt,,NGO,3,1
+6111,Shoninger,Bernard J.,NGO,2,1
+6112,Thompson,H.,NGO,3,1
+6113,Vienney,L.,NGO,3,1
+6114,Villiers,"Gerard ""Gerry"" H.",DIPLO,2,10
+6115,Vilallonga,Jose de,OIT,2,7
