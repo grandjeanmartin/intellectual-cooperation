@@ -45,5 +45,5 @@ Papers using this data set :
 
 > GRANDJEAN Martin (2015). *Introduction à la visualisation de données : l'analyse de réseau en histoire*, Geschichte und Informatik, 18/19, 109-128. [PDF](https://halshs.archives-ouvertes.fr/halshs-01525543)
 
-> GRANDJEAN Martin (2014). *La connaissance est un réseau : perspective sur l'organisation archivistique et encyclopédique*, Les Cahiers du Numérique, 10, 3, 37-54. DOI [10.3166/lcn.10.3.37-54](https://www.cairn.info/revue-les-cahiers-du-numerique-2014-3-p-37.htm)/ [PDF](https://halshs.archives-ouvertes.fr/halshs-01525545)
+> GRANDJEAN Martin (2014). *La connaissance est un réseau : perspective sur l'organisation archivistique et encyclopédique*, Les Cahiers du Numérique, 10, 3, 37-54. DOI [10.3166/lcn.10.3.37-54](https://www.cairn.info/revue-les-cahiers-du-numerique-2014-3-p-37.htm) / [PDF](https://halshs.archives-ouvertes.fr/halshs-01525545)
 
