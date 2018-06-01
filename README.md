@@ -2,7 +2,7 @@
 *[Martin Grandjean](http://www.martingrandjean.ch) University of Lausanne*
 
 ## About ##
-These are the sourcefiles of a network analysis based on the archives of the League of Nations' International Committee on Intellectual Cooperation (ICIC). These data are made public and available to the community for testing, further analysis, or simply as a training data set.
+Source files of a network analysis based on the archives of the League of Nations' International Committee on Intellectual Cooperation (ICIC)[(see on Wikipedia)](https://en.wikipedia.org/wiki/International_Committee_on_Intellectual_Cooperation). These data are made public and available to the community for testing, further analysis, or simply as a training data set.
 
 To cite this data set: 
 
@@ -31,3 +31,11 @@ Here's an interactive version of the network of the archives of the Internationa
   
 ## License ##
 The data is shared under a CC-BY-SA 4.0 License. Note that SigmaJS is distributed under the MIT License.
+
+## Other publications ##
+Papers using this data set :
+
+> GRANDJEAN Martin (2017). *Analisi e visualizzazioni delle reti in storia : l'esempio della cooperazione intellettuale della Società delle Nazioni*, Memoria e Ricerca, 25, 2, 371-393. DOI [10.14647/87204](https://www.rivisteweb.it/doi/10.14647/87204) / [PDF in french](https://halshs.archives-ouvertes.fr/halshs-01610098)
+
+> 
+
