@@ -27,7 +27,7 @@ Here's an interactive version of the network of the archives of the Internationa
 
 **> GRAPH** Interactive version of the graph (Beta): [https://grandjeanmartin.github.io/intellectual-cooperation]
 
-<a href="https://grandjeanmartin.github.io/intellectual-cooperation/ "><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/illustration.png" alt="intellectual cooperation"> 
+<a href="https://grandjeanmartin.github.io/intellectual-cooperation/ "><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/illustration.png" alt="intellectual cooperation"></a>
   
 ## License ##
 The data is shared under a CC-BY-SA 4.0 License. Note that SigmaJS is distributed under the MIT License.
