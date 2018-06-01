@@ -25,7 +25,7 @@ To cite the thesis:
 ## Network ##
 Here's an interactive version of the network of the archives of the International Committee on Intellectual Cooperation (1919-1927), made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
 
-**> GRAPH** Interactive version of the graph (Beta): https://grandjeanmartin.github.io/intellectual-cooperation/ 
+**> GRAPH** Interactive version of the graph (Beta): [https://grandjeanmartin.github.io/intellectual-cooperation]
 
 <a href="https://grandjeanmartin.github.io/intellectual-cooperation/ "><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/illustration.png" alt="intellectual cooperation"> 
   
@@ -35,7 +35,15 @@ The data is shared under a CC-BY-SA 4.0 License. Note that SigmaJS is distribute
 ## Other publications ##
 Papers using this data set :
 
-> GRANDJEAN Martin (2017). *Analisi e visualizzazioni delle reti in storia : l'esempio della cooperazione intellettuale della Società delle Nazioni*, Memoria e Ricerca, 25, 2, 371-393. DOI [10.14647/87204](https://www.rivisteweb.it/doi/10.14647/87204) / [PDF in french](https://halshs.archives-ouvertes.fr/halshs-01610098)
+> GRANDJEAN Martin (2017). *Analisi e visualizzazioni delle reti in storia : l'esempio della cooperazione intellettuale della Società delle Nazioni*, Memoria e Ricerca, 25, 2, 371-393. DOI [10.14647/87204](https://www.rivisteweb.it/doi/10.14647/87204) / [PDF in french](https://halshs.archives-ouvertes.fr/halshs-01610098) / [Summary](http://www.martingrandjean.ch/complex-structures-and-international-organizations/)
 
-> 
+> GRANDJEAN Martin (2017). *Multimode and Multilevel: Vertical Dimension in Historical and Literary Networks*, Digital Humanities 2017. [PDF](https://halshs.archives-ouvertes.fr/halshs-01525539)
+
+> GRANDJEAN Martin (2016). *Archives Distant Reading: Mapping the Activity of the League of Nations' Intellectual Cooperation*, Digital Humanities 2016, 531-534. [PDF](https://halshs.archives-ouvertes.fr/halshs-01525565)
+
+> GRANDJEAN Martin (2016). *Social Network Analysis of the League of Nations' Intellectual Cooperation, an Historical Distant Reading*, Digital Humanities Benelux 2016. [PDF](https://halshs.archives-ouvertes.fr/hal-01525570v1)
+
+> GRANDJEAN Martin (2015). *Introduction à la visualisation de données : l'analyse de réseau en histoire*, Geschichte und Informatik, 18/19, 109-128. [PDF](https://halshs.archives-ouvertes.fr/halshs-01525543)
+
+> GRANDJEAN Martin (2014). *La connaissance est un réseau : perspective sur l'organisation archivistique et encyclopédique*, Les Cahiers du Numérique, 10, 3, 37-54. DOI [10.3166/lcn.10.3.37-54](https://www.cairn.info/revue-les-cahiers-du-numerique-2014-3-p-37.htm)/ [PDF](https://halshs.archives-ouvertes.fr/halshs-01525545)
 
