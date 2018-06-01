@@ -2,7 +2,7 @@
 *[Martin Grandjean](http://www.martingrandjean.ch) University of Lausanne*
 
 ## About ##
-Source files of a network analysis based on the archives of the League of Nations' International Committee on Intellectual Cooperation (ICIC)[(see on Wikipedia)](https://en.wikipedia.org/wiki/International_Committee_on_Intellectual_Cooperation). These data are made public and available to the community for testing, further analysis, or simply as a training data set.
+Source files of a network analysis based on the archives of the League of Nations' [International Committee on Intellectual Cooperation](https://en.wikipedia.org/wiki/International_Committee_on_Intellectual_Cooperation) (ICIC) between 1919 and 1927. These data are made public and available to the community for testing, further analysis, or simply as a training data set.
 
 To cite this data set: 
 
