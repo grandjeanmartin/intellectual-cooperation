@@ -10,7 +10,7 @@ To cite this data set:
 
 To cite the thesis:
 
-> GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels (1919-1927)*, Université de Lausanne, Lausanne.
+> GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres*, Université de Lausanne, Lausanne.
 
 
 ## Data ##
