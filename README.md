@@ -1,12 +1,14 @@
 # The Network of Intellectual Cooperation
-*[Martin Grandjean](http://www.martingrandjean.ch) University of Lausanne*
+*[Martin Grandjean](http://www.martingrandjean.ch) University of Lausanne* 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1257288.svg)](https://doi.org/10.5281/zenodo.1257288)
 
 ## About ##
 Source files of a network analysis based on the archives of the League of Nations' [International Committee on Intellectual Cooperation](https://en.wikipedia.org/wiki/International_Committee_on_Intellectual_Cooperation) (ICIC) between 1919 and 1927. These data are made public and available to the community for testing, further analysis, or simply as a training data set.
 
 To cite this data set: 
 
-> GRANDJEAN Martin (2018). *The Network of Intellectual Cooperation*, Data set, https://github.com/grandjeanmartin/intellectual-cooperation.
+> GRANDJEAN Martin (2018). *The Network of Intellectual Cooperation*, Data set, https://github.com/grandjeanmartin/intellectual-cooperation. DOI [10.5281/zenodo.1257288](https://doi.org/10.5281/zenodo.1257288)
 
 To cite the thesis:
 
