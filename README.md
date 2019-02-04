@@ -16,7 +16,7 @@ To cite the thesis:
 
 
 ## 1-mode data ##
-
+<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/1mode.png" alt="1-mode network" width="180" align="right">
 **> FILE 1** EDGES : [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
 
 **> FILE 2** NODES : [CSV file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_nodes.csv) (id, name, first name, affiliation, gender, indexations)
@@ -24,7 +24,7 @@ To cite the thesis:
 **> FILE 3** METRICS : [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
 
 ## Multilayer data ##
-
+<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 **> FILE 4** EDGES : [XLSX file containing 29.8K lines]() (source, target, type, weight, level)
 
 **> FILE 5** NODES : [XLSX file containing 26.5K lines]() (id, name, first name, affiliation, gender, indexations, level name, level number)
