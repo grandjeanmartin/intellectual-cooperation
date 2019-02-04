@@ -27,7 +27,7 @@ To cite the thesis:
 ## Multilayer data ##
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 
-This additional dataset is built on the previous one by adding level 1 nodes (organizations) and level 2 nodes (top The proposed visualization has been produced with the Network Splitter 3D Gephi plugin.
+This additional dataset is built on the previous one by adding level 1 nodes (organizations), level 2 nodes (top organizations), internal edges in these layers (with a weight >1 to be more visible) and affiliation edges between the layers.
 
 **> FILE 4** EDGES : [XLSX file containing 29.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_edges.xlsx) (source, target, type, weight, level)
 
