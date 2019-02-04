@@ -15,7 +15,7 @@ To cite the thesis:
 > GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres*, Université de Lausanne, Lausanne, 600p. [[PDF here](https://halshs.archives-ouvertes.fr/tel-01853903)]
 
 
-## Data ##
+## 1-mode data ##
 
 **> FILE 1** EDGES : [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
 
@@ -23,8 +23,13 @@ To cite the thesis:
 
 **> FILE 3** METRICS : [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
 
+## Multilayer data ##
 
-## Network ##
+**> FILE 4** EDGES : [XLSX file containing 29.8K lines]() (source, target, type, weight, level)
+
+**> FILE 5** NODES : [XLSX file containing 26.5K lines]() (id, name, first name, affiliation, gender, indexations, level name, level number)
+
+## Interactive 1-mode network ##
 Here's an interactive version of the network of the archives of the International Committee on Intellectual Cooperation (1919-1927), made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
 
 **> GRAPH** Interactive version of the graph (Beta): [https://grandjeanmartin.github.io/intellectual-cooperation]
