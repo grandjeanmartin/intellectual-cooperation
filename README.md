@@ -27,9 +27,13 @@ To cite the thesis:
 ## Multilayer data ##
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 
+This additional dataset is built on the previous one by adding level 1 nodes (organizations) and level 2 nodes (top The proposed visualization has been produced with the Network Splitter 3D Gephi plugin.
+
 **> FILE 4** EDGES : [XLSX file containing 29.8K lines]() (source, target, type, weight, level)
 
 **> FILE 5** NODES : [XLSX file containing 26.5K lines]() (id, name, first name, affiliation, gender, indexations, level name, level number)
+
+The proposed visualization has been produced with the *Network Splitter 3D* Gephi plugin.
 
 ## Interactive 1-mode network ##
 Here's an interactive version of the network of the archives of the International Committee on Intellectual Cooperation (1919-1927), made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
