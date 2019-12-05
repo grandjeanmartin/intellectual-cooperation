@@ -48,6 +48,10 @@ The data is shared under a CC-BY-SA 4.0 License. Note that SigmaJS is distribute
 ## Other publications ##
 Papers using this data set :
 
+> GRANDJEAN Martin (2019). *Analyzing and Visualizing the Complexity and Multidimensionality of an Historical Network*, DARIAH-CH. [PDF](https://serval.unil.ch/notice/serval:BIB_411B82F235BC)
+
+> GRANDJEAN Martin (2018). *Towards the Formalization of Metadata Network Analysis in History: a Complex and Multidimensional Case Study*, DARIAH-CH. [PDF](https://halshs.archives-ouvertes.fr/halshs-01899945)
+
 > GRANDJEAN Martin (2017). *Analisi e visualizzazioni delle reti in storia : l'esempio della cooperazione intellettuale della Società delle Nazioni*, Memoria e Ricerca, 25, 2, 371-393. DOI [10.14647/87204](https://www.rivisteweb.it/doi/10.14647/87204) / [PDF in french](https://halshs.archives-ouvertes.fr/halshs-01610098) / [Summary](http://www.martingrandjean.ch/complex-structures-and-international-organizations/)
 
 > GRANDJEAN Martin (2017). *Multimode and Multilevel: Vertical Dimension in Historical and Literary Networks*, Digital Humanities 2017. [PDF](https://halshs.archives-ouvertes.fr/halshs-01525539)
