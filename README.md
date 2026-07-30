@@ -18,33 +18,45 @@ To cite the 2026 book:
 > GRANDJEAN Martin (2026). *La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)*, Neuchâtel, Editions Alphil-Presses Universitaires Suisses. [[PDF here](https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html)] 
 
 ## BOOK DATA ##
-Forthcoming
+### Gephi network
+
+**> FILE 1** NETWORK: GEXF file (A file that can be opened directly with Gephi)
+
+**> FILE 2** NETWORK: (A backup copy of the file that can be opened in Gephi Lite, see "Interactive network visualization" below)
+
+### Figures
+
+**> FOLDER** All the illustrations from the book are included in the [book/images](https://github.com/grandjeanmartin/intellectual-cooperation/tree/master/book/images) folder. But it's easier to view them through the [companion website](https://intellectualcooperation.org/la-cooperation-intellectuelle), which allows you to load them more efficiently.
+
+### Companion website
+
+**> FILE 3** WEBSITE: HTML page (This is actually a backup copy of the one currently displayed on [intellectualcooperation.org/la-cooperation-intellectuelle](https://intellectualcooperation.org/la-cooperation-intellectuelle))
 
 ## THESIS DATA ##
 ### Base data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/1mode.png" alt="1-mode network" width="180" align="right">
 
-**> FILE 1** EDGES : [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
+**> FILE 4** EDGES: [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
 
-**> FILE 2** NODES : [CSV file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_nodes.csv) (id, name, first name, affiliation, gender, indexations)
+**> FILE 5** NODES: [CSV file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_nodes.csv) (id, name, first name, affiliation, gender, indexations)
 
-**> FILE 3** METRICS : [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
+**> FILE 6** METRICS: [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
 
 ### Multilevel data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 
 This additional dataset is built on the previous one by adding level 1 nodes (organizations), level 2 nodes (top organizations), internal edges in these layers (with a weight >1 to be more visible) and affiliation edges between the layers. 
 
-**> FILE 4** EDGES : [XLSX file containing 29.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_edges.xlsx) (source, target, type, weight, level)
+**> FILE 7** EDGES: [XLSX file containing 29.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_edges.xlsx) (source, target, type, weight, level)
 
-**> FILE 5** NODES : [XLSX file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_nodes.xlsx) (id, name, first name, affiliation, gender, indexations, level name, level number)
+**> FILE 8** NODES: [XLSX file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_nodes.xlsx) (id, name, first name, affiliation, gender, indexations, level name, level number)
 
 The proposed visualization has been produced with the *Network Splitter 3D* Gephi plugin.
 
 ### Additional data
 A file that explains the meanings of the abbreviations used to classify the nodes above.
 
-**> FILE 6** CLASSIFICATION : [CSV file containing 41 lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/classification.csv) (abbreviated category, category name, group of categories)
+**> FILE 9** CLASSIFICATION: [CSV file containing 41 lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/classification.csv) (abbreviated category, category name, group of categories)
 
 ## INTERACTIVE NETWORK VISUALIZATION ##
 Forthcoming
