@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1257287.svg)](https://doi.org/10.5281/zenodo.1257287)
 
-## About ##
+## ABOUT ##
 Source files of a network analysis based on the archives of the League of Nations' [International Committee on Intellectual Cooperation](https://en.wikipedia.org/wiki/International_Committee_on_Intellectual_Cooperation) (ICIC) between 1919 and 1927. These data are made public and available to the community for testing, further analysis, or simply as a training data set.
 
 To cite this data set: 
@@ -17,10 +17,10 @@ To cite the 2018 thesis:
 To cite the 2026 book:
 > GRANDJEAN Martin (2026). *La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)*, Neuchâtel, Editions Alphil-Presses Universitaires Suisses. [[PDF here](https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html)] 
 
-## Book data ##
+## BOOK DATA ##
 Forthcoming
 
-## Thesis data ##
+## THESIS DATA ##
 ### Base data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/1mode.png" alt="1-mode network" width="180" align="right">
 
@@ -46,14 +46,13 @@ A file that explains the meanings of the abbreviations used to classify the node
 
 **> FILE 6** CLASSIFICATION : [CSV file containing 41 lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/classification.csv) (abbreviated category, category name, group of categories)
 
-
-## Interactive network visualization ##
+## INTERACTIVE NETWORK VISUALIZATION ##
 Forthcoming
 
-## License ##
+## LICENCE ##
 The data is shared under a CC-BY-SA 4.0 License.
 
-## Other publications ##
+## OTHER PUBLICATIONS ##
 Papers using these data sets :
 
 > GRANDJEAN Martin (2019). *Analyzing and Visualizing the Complexity and Multidimensionality of an Historical Network*, DARIAH-CH. [PDF](https://serval.unil.ch/notice/serval:BIB_411B82F235BC)
