@@ -10,12 +10,18 @@ To cite this data set:
 
 > GRANDJEAN Martin (2018). *The Network of Intellectual Cooperation*, Data set, https://github.com/grandjeanmartin/intellectual-cooperation. DOI [10.5281/zenodo.1257287](https://doi.org/10.5281/zenodo.1257287)
 
-To cite the thesis:
+To cite the 2018 thesis:
 
 > GRANDJEAN Martin (2018). *Les réseaux de la coopération intellectuelle, la Société des Nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres*, Université de Lausanne, Lausanne, 600p. [[PDF here](https://halshs.archives-ouvertes.fr/tel-01853903)]
 
+To cite the 2026 book:
+> GRANDJEAN Martin (2026). *La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)*, Neuchâtel, Editions Alphil-Presses Universitaires Suisses. [[PDF here](https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html)] 
 
-## 1-mode data ##
+## Book data ##
+Forthcoming
+
+## Thesis data ##
+### Base data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/1mode.png" alt="1-mode network" width="180" align="right">
 
 **> FILE 1** EDGES : [CSV file containing 26.5K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_edges.csv) (source, target, type, weight)
@@ -24,7 +30,7 @@ To cite the thesis:
 
 **> FILE 3** METRICS : [PDF file containing 2.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.pdf) (indexations, degree, weighted degree, closeness, betweenness, eigenvector) [Also available as a CSV](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/IntellectualCooperation_metrics.csv)
 
-## Multilayer data ##
+### Multilevel data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 
 This additional dataset is built on the previous one by adding level 1 nodes (organizations), level 2 nodes (top organizations), internal edges in these layers (with a weight >1 to be more visible) and affiliation edges between the layers.
@@ -35,18 +41,14 @@ This additional dataset is built on the previous one by adding level 1 nodes (or
 
 The proposed visualization has been produced with the *Network Splitter 3D* Gephi plugin.
 
-## Interactive 1-mode network ##
-Here's an interactive version of the network of the archives of the International Committee on Intellectual Cooperation (1919-1927), made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
+## Interactive network visualization ##
+Forthcoming
 
-**> GRAPH** Interactive version of the graph (Beta): [https://grandjeanmartin.github.io/intellectual-cooperation]
-
-<a href="https://grandjeanmartin.github.io/intellectual-cooperation/ "><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/illustration.png" alt="intellectual cooperation"></a>
-  
 ## License ##
-The data is shared under a CC-BY-SA 4.0 License. Note that SigmaJS is distributed under the MIT License.
+The data is shared under a CC-BY-SA 4.0 License.
 
 ## Other publications ##
-Papers using this data set :
+Papers using these data sets :
 
 > GRANDJEAN Martin (2019). *Analyzing and Visualizing the Complexity and Multidimensionality of an Historical Network*, DARIAH-CH. [PDF](https://serval.unil.ch/notice/serval:BIB_411B82F235BC)
 
