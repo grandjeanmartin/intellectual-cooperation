@@ -18,6 +18,8 @@ To cite the 2026 book:
 > GRANDJEAN Martin (2026). *La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)*, Neuchâtel, Editions Alphil-Presses Universitaires Suisses. [[PDF here](https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html)] 
 
 ## BOOK DATA ##
+<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/book/images/fig%201.10.png" alt="the network of intellectual cooperation" width="180" align="right">
+
 ### Gephi network
 
 **> FILE 1** NETWORK: GEXF file (A file that can be opened directly with Gephi)
