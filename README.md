@@ -33,13 +33,19 @@ Forthcoming
 ### Multilevel data
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/master/images/multilayer.png" alt="1-mode network" width="180" align="right">
 
-This additional dataset is built on the previous one by adding level 1 nodes (organizations), level 2 nodes (top organizations), internal edges in these layers (with a weight >1 to be more visible) and affiliation edges between the layers.
+This additional dataset is built on the previous one by adding level 1 nodes (organizations), level 2 nodes (top organizations), internal edges in these layers (with a weight >1 to be more visible) and affiliation edges between the layers. 
 
 **> FILE 4** EDGES : [XLSX file containing 29.8K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_edges.xlsx) (source, target, type, weight, level)
 
 **> FILE 5** NODES : [XLSX file containing 3.2K lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/Multilayer_nodes.xlsx) (id, name, first name, affiliation, gender, indexations, level name, level number)
 
 The proposed visualization has been produced with the *Network Splitter 3D* Gephi plugin.
+
+### Additional data
+A file that explains the meanings of the abbreviations used to classify the nodes above.
+
+**> FILE 6** CLASSIFICATION : [CSV file containing 41 lines](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/classification.csv) (abbreviated category, category name, group of categories)
+
 
 ## Interactive network visualization ##
 Forthcoming
