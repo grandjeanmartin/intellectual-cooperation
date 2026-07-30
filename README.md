@@ -28,7 +28,7 @@ To cite the 2026 book:
 
 ### Figures
 
-**> FOLDER** All the illustrations from the book are included in the [book/images](https://github.com/grandjeanmartin/intellectual-cooperation/tree/master/book/images) folder. But it's easier to view them through the [companion website](https://intellectualcooperation.org/la-cooperation-intellectuelle), which allows you to load them more efficiently.
+**> FOLDER** All the illustrations from the book are included in the [book/images](https://github.com/grandjeanmartin/intellectual-cooperation/tree/master/book/images) folder. But it's easier to view them through the [companion website](https://intellectualcooperation.org/la-cooperation-intellectuelle), which allows you to load them more efficiently. PNG 150dpi (72dpi for the large ones), ask the author if you want high quality versions.
 
 ### Companion website
 
