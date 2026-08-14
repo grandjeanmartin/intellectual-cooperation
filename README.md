@@ -22,9 +22,9 @@ To cite the 2026 book:
 
 ### Gephi network
 
-**> FILE 1** NETWORK: GEXF file (A file that can be opened directly with Gephi)
+**> FILE 1** NETWORK: [GEPHI file](https://github.com/grandjeanmartin/intellectual-cooperation/blob/master/data/intellectualcooperation.gephi) (A file that can be opened directly with Gephi)
 
-**> FILE 2** NETWORK: (A backup copy of the file that can be opened in Gephi Lite, see "Interactive network visualization" below)
+**> FILE 2** NETWORK: [GRAPHML.JSON](https://gist.github.com/grandjeanmartin/768dfa3398be43efc702bd7edb057329) (The file that is opened in Gephi Lite, see "Interactive network visualization" below)
 
 ### Figures
 
